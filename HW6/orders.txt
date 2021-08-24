@@ -1,0 +1,6 @@
+10000001|532not-approved|10000001|5326789878|8888|500|Alisha Solid Women's Cycling Shorts|Cumhuriyet Mahallesi Koru Sokak 1/4
+not-approved|10000002|5062416523|0799|199|Alisha Solid Women's Dress|Küplüce Mahallesi Yetkin Sokak 23/2|
+not-approved|10000003|5078912367|0280|20|Style Foot Bellies|Seren Mahallesi Tekin Sokak 2/3
+not-approved|10000004|5078912341|3333|100|Alisha Solid Women's Cycling Glasses|Barbaros Mahallesi Tüf Sokak 5/8
+not-approved|10000005|5354768989|2222|255|Alisha Solid Women's Cycling Shorts|Kandilli Mahallesi Zafer Sokak 16/5|
+not-approved|10000006|5077134778|2699|200|Carrel Printed Women's|Kuzguncuk Mahallesi Kar Sokak 3/1

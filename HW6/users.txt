@@ -1,0 +1,3207 @@
+Customer|10000001|123456|Sevra
+Customer|10000002|123456|Hatice
+Customer|10000003|123456|Ayşe
+Customer|10000004|123456|Elif
+Customer|10000005|123456|Burak
+Customer|10000006|123456|Mehmet
+Customer|10000007|123456|Kerem
+Customer|10000008|123456|Selin
+Customer|10000009|123456|Leyla
+Customer|10000010|123456|Ahmet
+Customer|10000011|123456|Mustafa
+Customer|10000012|123456|Esma
+Customer|10000013|123456|Betül
+Customer|10000014|123456|Ceyda
+Trader|50000001|654321|Alisha
+Trader|50000002|654321|FabHomeDecor
+Trader|50000003|654321|BigCompany
+Trader|50000004|654321|Sicons
+Trader|50000005|654321|Eternal Gandhi
+Trader|50000006|654321|dilli bazaaar
+Trader|50000007|654321|Ladela
+Trader|50000008|654321|Carrel
+Trader|50000009|654321|Freelance
+Trader|50000010|654321|Style Foot
+Trader|50000011|654321|dongli
+Trader|50000012|654321|SWAGGA
+Trader|50000013|654321|Kennel
+Trader|50000014|654321|Bengal Blooms
+Trader|50000015|654321|Indcrown
+Trader|50000016|654321|Shopmania
+Trader|50000017|654321|Tiara Diaries
+Trader|50000018|654321|KAJCI
+Trader|50000019|654321|Packman
+Trader|50000020|654321|Pick Pocket
+Trader|50000021|654321|Angelfish
+Trader|50000022|654321|Oye
+Trader|50000023|654321|Nuride
+Trader|50000024|654321|OM SHIVAKRITI
+Trader|50000025|654321|Himmlisch
+Trader|50000026|654321|Rapter
+Trader|50000027|654321|Vishudh
+Trader|50000028|654321| Actuator 
+Trader|50000029|654321|Skayvon
+Trader|50000030|654321|MASARA
+Trader|50000031|654321|Behringer
+Trader|50000032|654321|Roadster
+Trader|50000033|654321|Noor
+Trader|50000034|654321|Libas
+Trader|50000035|654321|HRS
+Trader|50000036|654321|Vermello
+Trader|50000037|654321|Ligans NY
+Trader|50000038|654321|Elegance
+Trader|50000039|654321|Liza
+Trader|50000040|654321|Sathiyas
+Trader|50000041|654321|SANTOSH ROYAL FASHION
+Trader|50000042|654321|CASEDEAL
+Trader|50000043|654321|Mario Gotze
+Trader|50000044|654321|Jaipur Print
+Trader|50000045|654321|Shilpi
+Trader|50000046|654321|Babeezworld
+Trader|50000047|654321|Redbag
+Trader|50000048|654321|Slim
+Trader|50000049|654321|Skanders
+Trader|50000050|654321|Regular
+Trader|50000051|654321|Skinny Fit
+Trader|50000052|654321|ezyPRNT
+Trader|50000053|654321|Traditions
+Trader|50000054|654321|First Choice
+Trader|50000055|654321|Eccellente
+Trader|50000056|654321|Nechams
+Trader|50000057|654321|JASPO
+Trader|50000058|654321|Masaba for Magic fairy
+Trader|50000059|654321|Momin Libas
+Trader|50000060|654321|ACM
+Trader|50000061|654321|A R ENTERPRISES
+Trader|50000062|654321|ShoeBuzz
+Trader|50000063|654321|Zed
+Trader|50000064|654321|House This
+Trader|50000065|654321|womaniya
+Trader|50000066|654321|Taj Pearl
+Trader|50000067|654321|Bento
+Trader|50000068|654321|Wake Up Competition
+Trader|50000069|654321| 100% SATISFIED CUSTOMERS NO HIDDEN CHARGES 
+Trader|50000070|654321|Dressberry
+Trader|50000071|654321|Mast & Harbour
+Trader|50000072|654321|Sisel
+Trader|50000073|654321|Knight Ace
+Trader|50000074|654321|Great Art
+Trader|50000075|654321|Indistar
+Trader|50000076|654321|Glacier
+Trader|50000077|654321|Zoe Marciano
+Trader|50000078|654321|Asics
+Trader|50000079|654321|Escan
+Trader|50000080|654321|Nine Maternity Wear
+Trader|50000081|654321|Kleio
+Trader|50000082|654321|Skipper
+Trader|50000083|654321|Mizuno
+Trader|50000084|654321|Turbo
+Trader|50000085|654321|Pure Source
+Trader|50000086|654321|Asian Gems & Jewels
+Trader|50000087|654321|Nishtaa
+Trader|50000088|654321|BlueStone
+Trader|50000089|654321|Karatcraft
+Trader|50000090|654321|Living World by Home Stop
+Trader|50000091|654321|Regular Fit
+Trader|50000092|654321|CaratLane
+Trader|50000093|654321|Araanz by Tribhovandas Bhimji Zaveri Delhi
+Trader|50000094|654321|Kiara Jewellery
+Trader|50000095|654321|JDX
+Trader|50000096|654321|Riva Carpets
+Trader|50000097|654321|G-Luck
+Trader|50000098|654321|Wise Guys
+Trader|50000099|654321|Kundali
+Trader|50000100|654321|Myesquire
+Trader|50000101|654321|H E Creations
+Trader|50000102|654321|KuberBox
+Trader|50000103|654321|Zenescope Entertainment
+Trader|50000104|654321|Twilight Creations
+Trader|50000105|654321|Dungri India Craft
+Trader|50000106|654321|Newworld
+Trader|50000107|654321|Hariom Enterprises
+Trader|50000108|654321|BFT
+Trader|50000109|654321|Lamy
+Trader|50000110|654321|Medimix
+Trader|50000111|654321|American-Elm
+Trader|50000112|654321|LG
+Trader|50000113|654321|Raymond
+Trader|50000114|654321|Furst
+Trader|50000115|654321|KalaBhawan
+Trader|50000116|654321|Sunrise
+Trader|50000117|654321|Jayanti sarees
+Trader|50000118|654321|JMD
+Trader|50000119|654321|Mom and Kid
+Trader|50000120|654321|reckonon
+Trader|50000121|654321|Zebra
+Trader|50000122|654321|Devinez
+Trader|50000123|654321|Kripa's
+Trader|50000124|654321|ROSEMOORE
+Trader|50000125|654321|Itiha
+Trader|50000126|654321|Mynte
+Trader|50000127|654321|TRESemme
+Trader|50000128|654321|AKUP
+Trader|50000129|654321|MohanJodero
+Trader|50000130|654321|Burt s Bees
+Trader|50000131|654321|D-Link
+Trader|50000132|654321|Suave
+Trader|50000133|654321|Dove
+Trader|50000134|654321|Paul Mitchell
+Trader|50000135|654321|RoQ
+Trader|50000136|654321|BrandTrendz
+Trader|50000137|654321|Crocs
+Trader|50000138|654321|Com-Paint
+Trader|50000139|654321|MERIL
+Trader|50000140|654321|Asian Aura
+Trader|50000141|654321|Niremo
+Trader|50000142|654321|Aadyaa Collections
+Trader|50000143|654321|INDRICKA
+Trader|50000144|654321|Schtaron
+Trader|50000145|654321|D'clair
+Trader|50000146|654321|Herbal Jewellery
+Trader|50000147|654321|Riot Jeans
+Trader|50000148|654321|Mount Nano
+Trader|50000149|654321|V4STYLES
+Trader|50000150|654321|Carmity
+Trader|50000151|654321|PHOCOS
+Trader|50000152|654321| Quantity : 150 ml The Paint from the can. Excellent for indoor or outdoor use. For a wide variety of different applications. For decoration metal, wood, glass, ceramics, concrete, stone, paper, cardboard, dried flowers, plastic. Colored caps make selecting a color easy. Practical spray cans, with child-proof caps. Acrylic quality varnish. Made in Germany. Note: These colors are flashy but they dont glow in dark.,Specifications of Dupli Color Spray Paint Bottle (Set of 1, Signal Red) General Model Name Neon Effect Paint Features Paint Medium Spray Paint Container Type Bottle Number of Paint Shades 1 Dimensions Quantity 150 ml In the Box 1 Spray Paint
+Trader|50000153|654321|TAB91
+Trader|50000154|654321|Trigcars
+Trader|50000155|654321|HANSFOOTNFIT
+Trader|50000156|654321|Selfiwear
+Trader|50000157|654321|S9 WOMEN
+Trader|50000158|654321|esoft
+Trader|50000159|654321|Imported
+Trader|50000160|654321|Pink Rose
+Trader|50000161|654321|Autofurnish
+Trader|50000162|654321|CSBS Sale
+Trader|50000163|654321|i-gadgets
+Trader|50000164|654321|DEEP FASHION
+Trader|50000165|654321|Loreal
+Trader|50000166|654321|FIla
+Trader|50000167|654321|INDIANO
+Trader|50000168|654321|BGS
+Trader|50000169|654321|Proganix
+Trader|50000170|654321|Rainfun
+Trader|50000171|654321|Anno Dominii
+Trader|50000172|654321|Lovely Chick
+Trader|50000173|654321|Pavers England
+Trader|50000174|654321|Wolfer
+Trader|50000175|654321|Neo strike
+Trader|50000176|654321|cm
+Trader|50000177|654321|Galaxy
+Trader|50000178|654321|C Kreul
+Trader|50000179|654321|OASIS
+Trader|50000180|654321|GOLDEN GLOBE
+Trader|50000181|654321|Escoda
+Trader|50000182|654321|Cookart
+Trader|50000183|654321|Wardtrobe
+Trader|50000184|654321|Mineral
+Trader|50000185|654321|Zastraa
+Trader|50000186|654321|LA ATTIRE
+Trader|50000187|654321|Abony
+Trader|50000188|654321|Corona
+Trader|50000189|654321|Mode
+Trader|50000190|654321|JRB
+Trader|50000191|654321|Digni
+Trader|50000192|654321|Fabiya
+Trader|50000193|654321|Amadore
+Trader|50000194|654321|medha
+Trader|50000195|654321|Tullis
+Trader|50000196|654321|prored
+Trader|50000197|654321|Delberto
+Trader|50000198|654321|vency creation
+Trader|50000199|654321|Tuelip
+Trader|50000200|654321|Uniross
+Trader|50000201|654321|BURDY
+Trader|50000202|654321|The Decor mart
+Trader|50000203|654321|Avyak
+Trader|50000204|654321|SD
+Trader|50000205|654321|DOUBLE HORSE
+Trader|50000206|654321|Crokrok
+Trader|50000207|654321|Pearl
+Trader|50000208|654321|CARBANAO
+Trader|50000209|654321|Bike World
+Trader|50000210|654321|Shoprider
+Trader|50000211|654321|Bootwale
+Trader|50000212|654321|N Five
+Trader|50000213|654321|CANMP
+Trader|50000214|654321|RYTHMX
+Trader|50000215|654321|Dernier Wear
+Trader|50000216|654321|Ajaero
+Trader|50000217|654321|Brillare Science
+Trader|50000218|654321|Mars
+Trader|50000219|654321|Oranje
+Trader|50000220|654321|Futaba
+Trader|50000221|654321|Fabpoppy
+Trader|50000222|654321|Lambency
+Trader|50000223|654321|Shortkut enterprises
+Trader|50000224|654321|Adidas
+Trader|50000225|654321|CarSizzler
+Trader|50000226|654321|Dinoimpex
+Trader|50000227|654321|Aroma Care
+Trader|50000228|654321|I Know
+Trader|50000229|654321|STREET LONDON
+Trader|50000230|654321|Ennoble
+Trader|50000231|654321|Leebo
+Trader|50000232|654321|KOHL
+Trader|50000233|654321|Inc.5
+Trader|50000234|654321|BOLLYWOOD ACCESSORY
+Trader|50000235|654321|CHHOTE JANAB
+Trader|50000236|654321|ANAND ARCHIES
+Trader|50000237|654321|Bharatcraft
+Trader|50000238|654321|Candy House
+Trader|50000239|654321|Victoria's Secret
+Trader|50000240|654321|addee
+Trader|50000241|654321|VIVIANA
+Trader|50000242|654321|Prime
+Trader|50000243|654321|Jutecentral
+Trader|50000244|654321|SKI
+Trader|50000245|654321|Weldecor
+Trader|50000246|654321|Foot Furnish
+Trader|50000247|654321|VITAMINS
+Trader|50000248|654321|HSFS
+Trader|50000249|654321|PUSHCART
+Trader|50000250|654321|Simitoes
+Trader|50000251|654321|Asian
+Trader|50000252|654321|Avon
+Trader|50000253|654321|GAYATRI CREATIONS
+Trader|50000254|654321|Caffeine
+Trader|50000255|654321|VAGON
+Trader|50000256|654321|Dutch Benson
+Trader|50000257|654321|Pandora
+Trader|50000258|654321|Garnet
+Trader|50000259|654321|Blue Birds USA Homeware
+Trader|50000260|654321|W.A.Y
+Trader|50000261|654321|Lakos
+Trader|50000262|654321|Blue Birds Usa Homeware
+Trader|50000263|654321|Dr. Thapar's
+Trader|50000264|654321|X-WELL
+Trader|50000265|654321|GAJ IMPEX
+Trader|50000266|654321|Speedwav
+Trader|50000267|654321|FS Mini Klub
+Trader|50000268|654321|Speedo
+Trader|50000269|654321|SHEFFIELD CLASSIC
+Trader|50000270|654321|DEBOCK
+Trader|50000271|654321|Vitamins
+Trader|50000272|654321|KE
+Trader|50000273|654321|Kartique
+Trader|50000274|654321|DARPAN
+Trader|50000275|654321|Giorgio Armani
+Trader|50000276|654321|Silvesto India
+Trader|50000277|654321|Gehna
+Trader|50000278|654321|Kirati
+Trader|50000279|654321|florence9
+Trader|50000280|654321|Vastrani
+Trader|50000281|654321|Mothercare
+Trader|50000282|654321|Steelseries
+Trader|50000283|654321|VarEesha
+Trader|50000284|654321|AND Designs
+Trader|50000285|654321|Platex
+Trader|50000286|654321|BONHEUR
+Trader|50000287|654321|Stealodeal
+Trader|50000288|654321|Zevrr
+Trader|50000289|654321|Kitts N Nevis
+Trader|50000290|654321|fashion bazar
+Trader|50000291|654321|Sohardhastshilp
+Trader|50000292|654321|Philigree
+Trader|50000293|654321|Noritake
+Trader|50000294|654321|Rastogi Handicrafts
+Trader|50000295|654321|UMA TRADERS
+Trader|50000296|654321|CraftGhar
+Trader|50000297|654321|Malabar Gold and Diamonds
+Trader|50000298|654321|Maped
+Trader|50000299|654321|Dealcrox
+Trader|50000300|654321|Action Shoes
+Trader|50000301|654321|fourgee
+Trader|50000302|654321|VIHA
+Trader|50000303|654321|Rasav Jewels
+Trader|50000304|654321|Reinvent
+Trader|50000305|654321|BUMPKIN
+Trader|50000306|654321|fashion point
+Trader|50000307|654321|Frabjous
+Trader|50000308|654321|Oner
+Trader|50000309|654321|ENTEASE
+Trader|50000310|654321|Puma
+Trader|50000311|654321|PeepalComm
+Trader|50000312|654321|BI
+Trader|50000313|654321|Sumo
+Trader|50000314|654321|Bubi
+Trader|50000315|654321|Dolphin Product
+Trader|50000316|654321|IPG
+Trader|50000317|654321|bohocraft
+Trader|50000318|654321| Longest Strand-18 Inches Clasp : Adjustable Silk Tassels Code : 80 - AG1 Natural Multicolor Flourite Necklace !!,Specifications of dgold Beads Stone Necklace Silver Features Silver Weight NA g General Brand dgold Precious/Artificial Jewellery Fashion Jewellery Model Number SJ87 Type Necklace Occasion Wedding & Engagement, Workwear, Everyday Ideal For Girls, Women Color Multicolor Diamond Features Diamond Weight NA carat Diamond Shape NA Diamond Color Grade NA Diamond Clarity NA Warranty Warranty Service Type 30 days Dimensions Chain/Necklace Length 18 inch Chain/Necklace Thickness 09 mm Gold Features Gold Purity NA K Body & Design Features Base Material Stone Gemstone Beads Plating NA Chain Type Beads Semi-precious Stone Features Natural/Synthetic Semi-precious Stone Natural Semi Precious Stone Additional Features Other Features Weight : 596.40 Cts, Dimensions : 09 X 07 MM Certification NA In the Box Pack of 1
+Trader|50000319|654321|dgold
+Trader|50000320|654321|Selfcare
+Trader|50000321|654321|Treasure
+Trader|50000322|654321|Dgold
+Trader|50000323|654321|RAA
+Trader|50000324|654321|poonamcreation
+Trader|50000325|654321|CHINMAY KIDS
+Trader|50000326|654321|CHKOKKO
+Trader|50000327|654321| Longest Strand-20 inches Code : 77 - AG1 Natural Black Spinel Necklace !!,Specifications of dgold Spinel Stone Necklace General Brand dgold Model Number SJ84 Precious/Artificial Jewellery Fashion Jewellery Type Necklace Ideal For Girls, Women Occasion Wedding & Engagement, Workwear, Everyday Color Black Silver Features Silver Weight NA g Diamond Features Diamond Weight NA carat Diamond Shape NA Diamond Color Grade NA Diamond Clarity NA Gold Features Gold Purity NA K Dimensions Chain/Necklace Length 20 inch Chain/Necklace Thickness 08 mm Warranty Warranty Service Type 30 days Body & Design Features Base Material Stone Gemstone Spinel Plating NA Necklace Type Strand Chain Type Beads Semi-precious Stone Features Natural/Synthetic Semi-precious Stone Natural Semi Precious Stone In the Box Pack of 1 Additional Features Other Features Weight : 482.55 Cts, Dimensions : 08 X 08 MM Certification NA
+Trader|50000328|654321|AdroitZ
+Trader|50000329|654321|KooKoo Fashion
+Trader|50000330|654321|Dispowear
+Trader|50000331|654321|Voril Fashion
+Trader|50000332|654321|couponsmall
+Trader|50000333|654321|HEAVENLY
+Trader|50000334|654321|Texco
+Trader|50000335|654321|Linzina
+Trader|50000336|654321|generic
+Trader|50000337|654321|Plush
+Trader|50000338|654321|Only
+Trader|50000339|654321|YBC
+Trader|50000340|654321|iWonder
+Trader|50000341|654321|@home
+Trader|50000342|654321|MayurShilpa
+Trader|50000343|654321|American Swan
+Trader|50000344|654321|Finger's
+Trader|50000345|654321|TAMBAS
+Trader|50000346|654321|Nordlich
+Trader|50000347|654321|Gwyn lingerie
+Trader|50000348|654321|SVT ADA COLLECTIONS
+Trader|50000349|654321|GREENWICH
+Trader|50000350|654321|Zadine
+Trader|50000351|654321|Smart Wall Guru
+Trader|50000352|654321|Love More
+Trader|50000353|654321|Aerosoft
+Trader|50000354|654321|Nike
+Trader|50000355|654321|Souminie
+Trader|50000356|654321|Opaleena
+Trader|50000357|654321|Beebay
+Trader|50000358|654321|Redesign
+Trader|50000359|654321|Done By None
+Trader|50000360|654321|AYMH
+Trader|50000361|654321|YK
+Trader|50000362|654321|Hemden
+Trader|50000363|654321|Kombee
+Trader|50000364|654321|ADIWALK
+Trader|50000365|654321|NEWGEN TECH
+Trader|50000366|654321|Viaan
+Trader|50000367|654321|Parinaaz
+Trader|50000368|654321|oxford
+Trader|50000369|654321|Polki
+Trader|50000370|654321|Xtremeonlinestore
+Trader|50000371|654321|NIRLON
+Trader|50000372|654321|Oleanna
+Trader|50000373|654321|Decon
+Trader|50000374|654321|Spangel Fashion
+Trader|50000375|654321|SONIK
+Trader|50000376|654321|Mee Mee
+Trader|50000377|654321|The balm
+Trader|50000378|654321|Vency creation
+Trader|50000379|654321|Eureka.in
+Trader|50000380|654321|knp enterprise
+Trader|50000381|654321|Cross Fingers
+Trader|50000382|654321|Hm International
+Trader|50000383|654321|Craft Trade
+Trader|50000384|654321|C&E
+Trader|50000385|654321|Adt Saral
+Trader|50000386|654321|PerfectBlue
+Trader|50000387|654321|morpankh Enterprise
+Trader|50000388|654321|Lakiya
+Trader|50000389|654321|UR Image
+Trader|50000390|654321|salt n pepper
+Trader|50000391|654321|Magical Knots
+Trader|50000392|654321|ferari
+Trader|50000393|654321|Tallenge
+Trader|50000394|654321|Voylla
+Trader|50000395|654321|NumBrave
+Trader|50000396|654321|CREEDS
+Trader|50000397|654321|Gold Dust
+Trader|50000398|654321|Pruto
+Trader|50000399|654321|ARIHANT
+Trader|50000400|654321|Calvin Klein
+Trader|50000401|654321|URBAN SHAUK
+Trader|50000402|654321|Embibo
+Trader|50000403|654321|SKY TRENDS GIFT
+Trader|50000404|654321|KAVACi
+Trader|50000405|654321|ACCESSOREEZ
+Trader|50000406|654321|VK Jewels
+Trader|50000407|654321|DWM
+Trader|50000408|654321|appleofmyi
+Trader|50000409|654321|SUNFLAME
+Trader|50000410|654321|HugMe.fashion
+Trader|50000411|654321|Jaunty
+Trader|50000412|654321|Vendee Fashion
+Trader|50000413|654321|Pearls India
+Trader|50000414|654321|Dev Jewellery
+Trader|50000415|654321|Exotic India
+Trader|50000416|654321|Aapno Rajasthan
+Trader|50000417|654321|Shri Shyam Baba Jewellers
+Trader|50000418|654321|Merchbay The Rock Dwayne Johnson Accessory Box 
+Trader|50000419|654321|Mrignayaneei
+Trader|50000420|654321|ARK Creation
+Trader|50000421|654321|Vidhya Kangan
+Trader|50000422|654321|Ayesha
+Trader|50000423|654321|Right Florist
+Trader|50000424|654321|Snug Hug
+Trader|50000425|654321|Sixthsense
+Trader|50000426|654321|Shagun
+Trader|50000427|654321|Joyeria Milan
+Trader|50000428|654321|BeYOUtiful
+Trader|50000429|654321|Black
+Trader|50000430|654321|Galz4ever
+Trader|50000431|654321|Pawzone
+Trader|50000432|654321|Diviniti
+Trader|50000433|654321|My Angel
+Trader|50000434|654321|Adhira
+Trader|50000435|654321|Eshoppee
+Trader|50000436|654321|The Art Jewellery
+Trader|50000437|654321|Nexessories
+Trader|50000438|654321|Adaa
+Trader|50000439|654321|Trinketbag
+Trader|50000440|654321|Karigaari
+Trader|50000441|654321|Sri Bansilal Pearls
+Trader|50000442|654321|Creative Spinach
+Trader|50000443|654321|Blissdrizzle
+Trader|50000444|654321|Buy Merchbay Anime Accessory Box 
+Trader|50000445|654321|Transcend
+Trader|50000446|654321|Leaftrend
+Trader|50000447|654321|FOCI
+Trader|50000448|654321|E-Studio
+Trader|50000449|654321|Handecor
+Trader|50000450|654321|Just Women
+Trader|50000451|654321|Green House
+Trader|50000452|654321|Myint
+Trader|50000453|654321|K&P
+Trader|50000454|654321|Jazzup
+Trader|50000455|654321|Lotusa
+Trader|50000456|654321|Gift Island
+Trader|50000457|654321|Radiant Bay
+Trader|50000458|654321|Samradhi
+Trader|50000459|654321|Fuson
+Trader|50000460|654321|P.N.Gadgil Jewellers
+Trader|50000461|654321|kasemantra
+Trader|50000462|654321|Jewels of Jaipur
+Trader|50000463|654321|Kamakhya Jewels
+Trader|50000464|654321|Gizmoz Customs
+Trader|50000465|654321|Ojasvi
+Trader|50000466|654321|Rama
+Trader|50000467|654321|Cloth Fusion
+Trader|50000468|654321|Silkworm
+Trader|50000469|654321|LinkedInLove
+Trader|50000470|654321|Shop Rajasthan
+Trader|50000471|654321|Gioiabazar
+Trader|50000472|654321|El Sandlo
+Trader|50000473|654321|Johareez
+Trader|50000474|654321|HMO India
+Trader|50000475|654321|Jewels5
+Trader|50000476|654321|JewelHub
+Trader|50000477|654321|Shiv Textile
+Trader|50000478|654321|Tycab
+Trader|50000479|654321|Jewelsnext
+Trader|50000480|654321|Bestway
+Trader|50000481|654321|Kapa
+Trader|50000482|654321|iAccy
+Trader|50000483|654321|Goyal India
+Trader|50000484|654321|Icon
+Trader|50000485|654321|Jewelhub
+Trader|50000486|654321|Kasemantra
+Trader|50000487|654321|UAG
+Trader|50000488|654321|Brite
+Trader|50000489|654321|Bagru Crafts
+Trader|50000490|654321|AMZER
+Trader|50000491|654321|Jpearls
+Trader|50000492|654321|Vheelocityin
+Trader|50000493|654321|Indigocart
+Trader|50000494|654321|EDGE PLUS
+Trader|50000495|654321|Remtex Export
+Trader|50000496|654321|Tradition India
+Trader|50000497|654321|CORA
+Trader|50000498|654321|TWISHA
+Trader|50000499|654321|Khadi
+Trader|50000500|654321|TRENDIEZ
+Trader|50000501|654321|V & B GALLERY
+Trader|50000502|654321|Alark The Ethnic
+Trader|50000503|654321|RETAIL SHOP INDIA
+Trader|50000504|654321|YoudyCo
+Trader|50000505|654321|X-Poz
+Trader|50000506|654321|Nutrispa
+Trader|50000507|654321|Nuteez
+Trader|50000508|654321|domestiq
+Trader|50000509|654321|Perfect
+Trader|50000510|654321|Guardian
+Trader|50000511|654321|Eternity
+Trader|50000512|654321|BODYSENSE
+Trader|50000513|654321|HIMGIRI
+Trader|50000514|654321|Odoky
+Trader|50000515|654321|Fashion Plus
+Trader|50000516|654321|Samsung
+Trader|50000517|654321|Stellar Collections
+Trader|50000518|654321|Pink
+Trader|50000519|654321|White
+Trader|50000520|654321|Brown
+Trader|50000521|654321|Green
+Trader|50000522|654321|Blue
+Trader|50000523|654321|Maroon
+Trader|50000524|654321|Black/ White
+Trader|50000525|654321|Red
+Trader|50000526|654321|Grey
+Trader|50000527|654321|Royal Blue
+Trader|50000528|654321|Dark Pink
+Trader|50000529|654321|Yellow
+Trader|50000530|654321|Purple
+Trader|50000531|654321|Olive Green
+Trader|50000532|654321|Navy
+Trader|50000533|654321|Cream
+Trader|50000534|654321|Mehroon
+Trader|50000535|654321|Beige
+Trader|50000536|654321|Skin
+Trader|50000537|654321|Majenta
+Trader|50000538|654321|Multicolor
+Trader|50000539|654321|red
+Trader|50000540|654321|Baby Pink
+Trader|50000541|654321|Light Orange
+Trader|50000542|654321|Orange
+Trader|50000543|654321|Light Brown
+Trader|50000544|654321|Coffee
+Trader|50000545|654321|PURPLE
+Trader|50000546|654321|MAGENTA
+Trader|50000547|654321|SKIN
+Trader|50000548|654321|Mauve
+Trader|50000549|654321|Falsa
+Trader|50000550|654321|Rouge Red
+Trader|50000551|654321|Dark Red
+Trader|50000552|654321|Black & Yellow
+Trader|50000553|654321|Peach
+Trader|50000554|654321|Gold
+Trader|50000555|654321|Carrot Pink
+Trader|50000556|654321|N.Blue
+Trader|50000557|654321|Light Pink
+Trader|50000558|654321|Neon Pink
+Trader|50000559|654321|Sky Blue
+Trader|50000560|654321|Carrot Red
+Trader|50000561|654321|Leopard Print
+Trader|50000562|654321|Dark Grey
+Trader|50000563|654321|Multi
+Trader|50000564|654321|Bold Black
+Trader|50000565|654321|NavyBlue
+Trader|50000566|654321|lavender-Black
+Trader|50000567|654321|Rani
+Trader|50000568|654321|Cherry
+Trader|50000569|654321|Powder Blue
+Trader|50000570|654321|Black Multi
+Trader|50000571|654321|Turquise
+Trader|50000572|654321|Grey & Black
+Trader|50000573|654321|RED
+Trader|50000574|654321|Light Purple
+Trader|50000575|654321|Green-Black
+Trader|50000576|654321|LightPink
+Trader|50000577|654321|Darkpink
+Trader|50000578|654321|Light pink
+Trader|50000579|654321|Light Blue
+Trader|50000580|654321|Peach Red
+Trader|50000581|654321|Grey/ White
+Trader|50000582|654321|Tillu Pillu
+Trader|50000583|654321|SB RETAILS
+Trader|50000584|654321|Saarah
+Trader|50000585|654321|Empreus
+Trader|50000586|654321|Aden & M
+Trader|50000587|654321|diva boutique
+Trader|50000588|654321|Bodycare
+Trader|50000589|654321|Bottoms More
+Trader|50000590|654321|Goodwill Impex
+Trader|50000591|654321|C.E Collection
+Trader|50000592|654321|Mactree
+Trader|50000593|654321|JDK NOVELTY
+Trader|50000594|654321|Liberty
+Trader|50000595|654321|Khadim's
+Trader|50000596|654321|IBALL
+Trader|50000597|654321|Edel
+Trader|50000598|654321|Rockshose
+Trader|50000599|654321|Crazy Deal
+Trader|50000600|654321|Brandvilla
+Trader|50000601|654321|HK-Impex
+Trader|50000602|654321|Fpc Creations
+Trader|50000603|654321|Oggo Deo
+Trader|50000604|654321|IBS
+Trader|50000605|654321|Anuradha Art
+Trader|50000606|654321|720 Armour
+Trader|50000607|654321|GLAMWALK
+Trader|50000608|654321|Estilo
+Trader|50000609|654321|trustedsnap
+Trader|50000610|654321|clickforsign
+Trader|50000611|654321|Trendy Divva
+Trader|50000612|654321|Vero Moda
+Trader|50000613|654321|Avenue
+Trader|50000614|654321|JUHI CREATIONS
+Trader|50000615|654321|Lavennder
+Trader|50000616|654321|Treppe
+Trader|50000617|654321|Kanvas
+Trader|50000618|654321|Nickolas
+Trader|50000619|654321|Quoface
+Trader|50000620|654321|Klaur Melbourne
+Trader|50000621|654321|Vala'S
+Trader|50000622|654321|Remix
+Trader|50000623|654321|Clickforsign
+Trader|50000624|654321|Omic
+Trader|50000625|654321|AQUAPOLO
+Trader|50000626|654321|induscraft
+Trader|50000627|654321|O Baby
+Trader|50000628|654321|kem Flow Gold
+Trader|50000629|654321| Flipkart.com. Only Genuine Products. Free Shipping. Cash On Delivery!
+Trader|50000630|654321|Prachin
+Trader|50000631|654321|Collectible India
+Trader|50000632|654321|FAX
+Trader|50000633|654321|Gkidz
+Trader|50000634|654321|Clench
+Trader|50000635|654321|VRTYA
+Trader|50000636|654321|LUMBER BOY
+Trader|50000637|654321|FRENEMY
+Trader|50000638|654321|BIKER BOYS
+Trader|50000639|654321|Port
+Trader|50000640|654321|Jon Pep
+Trader|50000641|654321|TOUCHWOOD
+Trader|50000642|654321|Chazer
+Trader|50000643|654321|Leather chief
+Trader|50000644|654321|HRX by Hrithik Roshan
+Trader|50000645|654321|Feminine
+Trader|50000646|654321|Micromax
+Trader|50000647|654321|Comex
+Trader|50000648|654321|SIESTA
+Trader|50000649|654321|THELABELLIFE.com
+Trader|50000650|654321|Hitway
+Trader|50000651|654321|MAK
+Trader|50000652|654321|Lilliput
+Trader|50000653|654321|Gasser
+Trader|50000654|654321|Coash
+Trader|50000655|654321|ARMOIRE
+Trader|50000656|654321|topolino
+Trader|50000657|654321|Spa Culture
+Trader|50000658|654321|Trend Notes
+Trader|50000659|654321|EVER WEAR
+Trader|50000660|654321|Crux&Hunter
+Trader|50000661|654321|Zippy
+Trader|50000662|654321|TIMBERLAKE
+Trader|50000663|654321|Action
+Trader|50000664|654321|Retina
+Trader|50000665|654321|FLITE
+Trader|50000666|654321|LAST BENCH
+Trader|50000667|654321|Martini
+Trader|50000668|654321|PI ZON
+Trader|50000669|654321|BARESKIN
+Trader|50000670|654321|benext
+Trader|50000671|654321|Panit
+Trader|50000672|654321|Marks & Spencer
+Trader|50000673|654321|Saco
+Trader|50000674|654321|Reevolution
+Trader|50000675|654321|PURYS
+Trader|50000676|654321|Technical Specifications
+Trader|50000677|654321|keshar
+Trader|50000678|654321|XEBAC
+Trader|50000679|654321|Quilt India
+Trader|50000680|654321|Rajrang
+Trader|50000681|654321|Toffyhouse
+Trader|50000682|654321|VDRIVE
+Trader|50000683|654321|Carbanao
+Trader|50000684|654321|Bond Beatz
+Trader|50000685|654321|Oddy
+Trader|50000686|654321|ortel
+Trader|50000687|654321| Quantity : 150 ml High coverage, scratch-proof and weather-proof synthetic paint Dries with a glossy finish For smooth, even surfaces For interior and exterior use Ideal for beginners and Do-it-yourself purposes Good alternative for price conscious customers Cap shows color of contents Suitable for wood, metal, glass, stone, cardboard, paper, asbestos cement, china and numerous plastics Important: Can be re-coated within 2 hours or after 24 hours. Fully dry after approx. 24 hours. Do not re-coat with acrylic lacquers. Depending on condition and color of the ground, 150 ml are sufficient for approx. 0.25 - 0.40 m2 Made in Germany PRIOR TO USAGE: Remove spray nozzle and take out red plastic protection ring
+Trader|50000688|654321|ZORDEN
+Trader|50000689|654321|AMCO
+Trader|50000690|654321|ATIS AMCO
+Trader|50000691|654321|WorldWearFootwear
+Trader|50000692|654321|Synergy
+Trader|50000693|654321|Hand Art
+Trader|50000694|654321|SHOPOJ
+Trader|50000695|654321|SUPERMOD
+Trader|50000696|654321|Shyam Fashion
+Trader|50000697|654321|Ridhi-Impex
+Trader|50000698|654321|Dark Image
+Trader|50000699|654321|Zappy
+Trader|50000700|654321|SHOPMANIA
+Trader|50000701|654321|Toe Spring
+Trader|50000702|654321|Goldcave
+Trader|50000703|654321|Ganga
+Trader|50000704|654321|Trmpi
+Trader|50000705|654321|VECTOR-X
+Trader|50000706|654321|AAO+
+Trader|50000707|654321|EYE GLASS
+Trader|50000708|654321|HERDY
+Trader|50000709|654321|Zyaden
+Trader|50000710|654321|Elligator
+Trader|50000711|654321|Shopizone
+Trader|50000712|654321|Craftcart
+Trader|50000713|654321|Trendy Nuts
+Trader|50000714|654321|SOS
+Trader|50000715|654321|F-Loop
+Trader|50000716|654321|Starsy
+Trader|50000717|654321|Fanideaz
+Trader|50000718|654321|Knotty Derby
+Trader|50000719|654321|Hunny Bunny
+Trader|50000720|654321|RPB
+Trader|50000721|654321|Royal Seal Creations
+Trader|50000722|654321|Japdan
+Trader|50000723|654321|Being Nawab
+Trader|50000724|654321|Arsalan
+Trader|50000725|654321|IndoSurgicals
+Trader|50000726|654321|Allure Auto
+Trader|50000727|654321|Pratha
+Trader|50000728|654321|S C Handicrafts
+Trader|50000729|654321|Ravishing Variety
+Trader|50000730|654321|Filtre
+Trader|50000731|654321|Accessory Mart
+Trader|50000732|654321|Monil
+Trader|50000733|654321|Lal Haveli
+Trader|50000734|654321|Dexas
+Trader|50000735|654321|NEHP
+Trader|50000736|654321|Sovam International
+Trader|50000737|654321|Ona'S
+Trader|50000738|654321|Onlineshoppee
+Trader|50000739|654321|Tirupati
+Trader|50000740|654321|Excel
+Trader|50000741|654321|Tescoma
+Trader|50000742|654321|Siri Creations
+Trader|50000743|654321|Mooz
+Trader|50000744|654321|3a Autocare
+Trader|50000745|654321|Detak
+Trader|50000746|654321|SAC
+Trader|50000747|654321|Utkalika
+Trader|50000748|654321|Ray-Pro
+Trader|50000749|654321|3a AUTOCARE
+Trader|50000750|654321|Shoppingtara
+Trader|50000751|654321|EON
+Trader|50000752|654321|Triston Home
+Trader|50000753|654321|Sunvi
+Trader|50000754|654321|Rajo Raja
+Trader|50000755|654321|OXO
+Trader|50000756|654321|Ninety One Degree
+Trader|50000757|654321|Nourish
+Trader|50000758|654321|Go Hooked
+Trader|50000759|654321|Purpledip
+Trader|50000760|654321|KB's
+Trader|50000761|654321|Slice of Bengal
+Trader|50000762|654321|Shree Homdecor
+Trader|50000763|654321|The Crystal Jewel
+Trader|50000764|654321|Made In China
+Trader|50000765|654321|Trudeau
+Trader|50000766|654321|Unique Design
+Trader|50000767|654321|MSC Shuangmin
+Trader|50000768|654321|Marwar
+Trader|50000769|654321|Miracle
+Trader|50000770|654321|5 FEELINGS
+Trader|50000771|654321|Tatvaarts
+Trader|50000772|654321|Orchard
+Trader|50000773|654321|Trove
+Trader|50000774|654321|Youshine
+Trader|50000775|654321|Zaicus
+Trader|50000776|654321|UpTown
+Trader|50000777|654321|Zakaah Jewels
+Trader|50000778|654321|Vinnis
+Trader|50000779|654321|Womens Trendz
+Trader|50000780|654321|Aaradhi
+Trader|50000781|654321|WonderChef
+Trader|50000782|654321|Village Handicrafts
+Trader|50000783|654321|YugshaJewels
+Trader|50000784|654321|Adorelabel
+Trader|50000785|654321|Addons
+Trader|50000786|654321|Aaishwarya
+Trader|50000787|654321|Pearl Berry
+Trader|50000788|654321|Surface180
+Trader|50000789|654321|Visaga
+Trader|50000790|654321|Volaliva
+Trader|50000791|654321|Wow
+Trader|50000792|654321|Aahana Creations
+Trader|50000793|654321|Twella Creations
+Trader|50000794|654321|3D Mat
+Trader|50000795|654321|Vijisan
+Trader|50000796|654321|Villcart
+Trader|50000797|654321|Seema's Craft Creation
+Trader|50000798|654321|Unravel India
+Trader|50000799|654321|Giftmania
+Trader|50000800|654321|Saum Creation
+Trader|50000801|654321|Urthn
+Trader|50000802|654321|Trinklets
+Trader|50000803|654321|Vastradi
+Trader|50000804|654321|VR Designers
+Trader|50000805|654321|RoyalsCart
+Trader|50000806|654321|Aakshi
+Trader|50000807|654321|Advika
+Trader|50000808|654321|Uma
+Trader|50000809|654321|X Gold India
+Trader|50000810|654321|Apex
+Trader|50000811|654321|Aara Arts
+Trader|50000812|654321|TSG Yuth
+Trader|50000813|654321|Blue Dot
+Trader|50000814|654321|Uncommon Stuffs
+Trader|50000815|654321|Miracle Furnishings
+Trader|50000816|654321|Seven Seas
+Trader|50000817|654321|Wink
+Trader|50000818|654321|Jhondeal.com
+Trader|50000819|654321|Vs International
+Trader|50000820|654321|URY
+Trader|50000821|654321|Adwitiya Collection
+Trader|50000822|654321|Adimani
+Trader|50000823|654321|Tiedribbons
+Trader|50000824|654321|Zaisch
+Trader|50000825|654321|Krg Enterprises
+Trader|50000826|654321|Veinice
+Trader|50000827|654321|Ruchikainternational
+Trader|50000828|654321|Surface 180
+Trader|50000829|654321|A M International
+Trader|50000830|654321|Malhar
+Trader|50000831|654321|Zovon
+Trader|50000832|654321|Seema'S Craft Creation
+Trader|50000833|654321|Ndura
+Trader|50000834|654321|Atc
+Trader|50000835|654321|The Ethnic Story
+Trader|50000836|654321|Pindia
+Trader|50000837|654321|JSM
+Trader|50000838|654321|Vizio
+Trader|50000839|654321|MA Design Hut
+Trader|50000840|654321|OK
+Trader|50000841|654321|Krown
+Trader|50000842|654321|Dailyware
+Trader|50000843|654321|Aeoss
+Trader|50000844|654321|Udhayam
+Trader|50000845|654321|Baltra
+Trader|50000846|654321|Amzer
+Trader|50000847|654321|Metallino
+Trader|50000848|654321|Regan
+Trader|50000849|654321|Amaze Mobile
+Trader|50000850|654321|Smiledrive
+Trader|50000851|654321|Total Furnishing
+Trader|50000852|654321|Wowww
+Trader|50000853|654321|Kraftnation
+Trader|50000854|654321|Vibrandz
+Trader|50000855|654321|Urdiva Fashions
+Trader|50000856|654321|CookAid
+Trader|50000857|654321|Tosiba
+Trader|50000858|654321|Gear X
+Trader|50000859|654321|Kosher
+Trader|50000860|654321|Hawkins
+Trader|50000861|654321|Recon
+Trader|50000862|654321|Pigeon
+Trader|50000863|654321|Vaishali Bindi and Bangles
+Trader|50000864|654321|Ambitione
+Trader|50000865|654321|Star Metal
+Trader|50000866|654321|Gaoyitech
+Trader|50000867|654321|Nanson
+Trader|50000868|654321|Black Diamond
+Trader|50000869|654321|Indian Art Villa
+Trader|50000870|654321|Bestech
+Trader|50000871|654321|Suruchi
+Trader|50000872|654321|Importwala
+Trader|50000873|654321|4D Mats
+Trader|50000874|654321|ruchiworld
+Trader|50000875|654321|Sygtech
+Trader|50000876|654321|Ahuja
+Trader|50000877|654321|Kalash
+Trader|50000878|654321|Neopack
+Trader|50000879|654321|SignKraft
+Trader|50000880|654321|Swethamber Arts
+Trader|50000881|654321|Vtc
+Trader|50000882|654321|Maple
+Trader|50000883|654321|Easy
+Trader|50000884|654321|Disney
+Trader|50000885|654321|Peacock
+Trader|50000886|654321|Ziveg
+Trader|50000887|654321|Leo Natura
+Trader|50000888|654321|Vaartha
+Trader|50000889|654321|Sumeet
+Trader|50000890|654321|Shopaholic
+Trader|50000891|654321|Bull's Eye
+Trader|50000892|654321|TRUE
+Trader|50000893|654321|OBS
+Trader|50000894|654321|Black Stallion
+Trader|50000895|654321|Chefkraft
+Trader|50000896|654321|Orientel
+Trader|50000897|654321|World-Star
+Trader|50000898|654321|Capdase
+Trader|50000899|654321|Alda
+Trader|50000900|654321|Murtiwala
+Trader|50000901|654321|Needhi
+Trader|50000902|654321|Wingold
+Trader|50000903|654321|The Crafts House
+Trader|50000904|654321|Jaipan
+Trader|50000905|654321|i-Static
+Trader|50000906|654321|Egrips
+Trader|50000907|654321|Fonokase
+Trader|50000908|654321|Fiesta
+Trader|50000909|654321|Bright Home Appliances
+Trader|50000910|654321|Willmore
+Trader|50000911|654321|Prestige
+Trader|50000912|654321|United
+Trader|50000913|654321|Anupam
+Trader|50000914|654321|Nirlon
+Trader|50000915|654321|Lodge
+Trader|50000916|654321|Total Agency
+Trader|50000917|654321|Softarts
+Trader|50000918|654321|Autosun
+Trader|50000919|654321|DakshCraft
+Trader|50000920|654321|Ada Jewel
+Trader|50000921|654321|FLY
+Trader|50000922|654321|Woodino Handicrafts
+Trader|50000923|654321|R S Jewels
+Trader|50000924|654321|Vision
+Trader|50000925|654321|Shubh
+Trader|50000926|654321|Glamor
+Trader|50000927|654321|Fly
+Trader|50000928|654321|OTC
+Trader|50000929|654321|Bracketron
+Trader|50000930|654321|Mom Italy
+Trader|50000931|654321|Kumkum
+Trader|50000932|654321|Jazam
+Trader|50000933|654321|Mavi
+Trader|50000934|654321|Jk Vallabhdas
+Trader|50000935|654321|Supreme Cookwares
+Trader|50000936|654321|Style Buy Style
+Trader|50000937|654321|Flat n Heels
+Trader|50000938|654321|Funku Fashion
+Trader|50000939|654321|Katalogue
+Trader|50000940|654321|Desire
+Trader|50000941|654321|Ocean
+Trader|50000942|654321|Adorn
+Trader|50000943|654321|craftland
+Trader|50000944|654321|Sitaram
+Trader|50000945|654321| Ganesh 
+Trader|50000946|654321|DICE
+Trader|50000947|654321|Italian Fashion
+Trader|50000948|654321|ANASAZI
+Trader|50000949|654321|Four Paws
+Trader|50000950|654321|Pittsburgh Polo Club
+Trader|50000951|654321|Autoplus
+Trader|50000952|654321|palito
+Trader|50000953|654321| Laptops Energy Saver Scalar Ion -Protect Your Ear, Brain & Heart Tissues From Harmful Radiation Brand New, High Quality. Compact
+Trader|50000954|654321|Satovira
+Trader|50000955|654321|Omen
+Trader|50000956|654321|Wajbee
+Trader|50000957|654321|Carlos
+Trader|50000958|654321|Texus
+Trader|50000959|654321|Adino
+Trader|50000960|654321|AutoGarh
+Trader|50000961|654321|ESIDON
+Trader|50000962|654321|Griiham
+Trader|50000963|654321|Unique Collections
+Trader|50000964|654321|ZAIRE
+Trader|50000965|654321|Wisdom
+Trader|50000966|654321|Big Mike s
+Trader|50000967|654321|Saihan
+Trader|50000968|654321|Lavie
+Trader|50000969|654321|Mi Dulce An'ya
+Trader|50000970|654321|Bhavya
+Trader|50000971|654321|Kute Kids
+Trader|50000972|654321|Invaders
+Trader|50000973|654321|S Class
+Trader|50000974|654321|MYRA
+Trader|50000975|654321|cherry crumble california
+Trader|50000976|654321|FATEN
+Trader|50000977|654321|Yves Bertelin
+Trader|50000978|654321|Allen Solly
+Trader|50000979|654321|Peppermint Blues
+Trader|50000980|654321|V9
+Trader|50000981|654321|Metro Moulding Industries
+Trader|50000982|654321|PIEXIM
+Trader|50000983|654321|Dreamshomes
+Trader|50000984|654321|Next Player
+Trader|50000985|654321|Fotodiox Inc.
+Trader|50000986|654321|Style World
+Trader|50000987|654321|Kandyfloss
+Trader|50000988|654321|Tryfa
+Trader|50000989|654321|INVENTURE RETAIL
+Trader|50000990|654321|Status Quo
+Trader|50000991|654321|YOA
+Trader|50000992|654321|Tucasa
+Trader|50000993|654321|Valentine
+Trader|50000994|654321|Brahmz
+Trader|50000995|654321|NAVISHA
+Trader|50000996|654321|Via Italia
+Trader|50000997|654321|REAL
+Trader|50000998|654321|Yashasvi
+Trader|50000999|654321|MKB
+Trader|50001000|654321|Toddla
+Trader|50001001|654321|Baby Moshai
+Trader|50001002|654321|My Little Lambs
+Trader|50001003|654321|Snuggles
+Trader|50001004|654321|Haier
+Trader|50001005|654321|Fame16
+Trader|50001006|654321| Bottom Length:14 
+Trader|50001007|654321|arnavs
+Trader|50001008|654321|Technotech
+Trader|50001009|654321|Twin Twine
+Trader|50001010|654321|Yoshana
+Trader|50001011|654321|I Ball
+Trader|50001012|654321| Bottom Length:19 
+Trader|50001013|654321|Globe
+Trader|50001014|654321|Maniac
+Trader|50001015|654321|Abstract Mood
+Trader|50001016|654321|Prrem's
+Trader|50001017|654321| Top Length:16 
+Trader|50001018|654321|Oriflame
+Trader|50001019|654321|Mustard
+Trader|50001020|654321|FTCBAZAR
+Trader|50001021|654321|Koolkids
+Trader|50001022|654321|Romano
+Trader|50001023|654321|chetan
+Trader|50001024|654321|JayEnterprise
+Trader|50001025|654321|Denim 86
+Trader|50001026|654321|youniqueshop
+Trader|50001027|654321|SAVON
+Trader|50001028|654321|Being Trendy
+Trader|50001029|654321|Tech Yug
+Trader|50001030|654321|Hangrr
+Trader|50001031|654321|FAB-FLASH
+Trader|50001032|654321|Maveric
+Trader|50001033|654321|Singh Xpress
+Trader|50001034|654321|Brahaan BLUE TAG
+Trader|50001035|654321|Ezone
+Trader|50001036|654321|Purple Nasty
+Trader|50001037|654321|The Design Factory
+Trader|50001038|654321|Tatkim
+Trader|50001039|654321|Richard Cole
+Trader|50001040|654321|Livastar
+Trader|50001041|654321|Cotton World
+Trader|50001042|654321|Craftuno
+Trader|50001043|654321|Itzmyfashion
+Trader|50001044|654321|Desert Eshop
+Trader|50001045|654321|Jewelina Gems
+Trader|50001046|654321|Imitzworld
+Trader|50001047|654321|Fayon
+Trader|50001048|654321|Elephant
+Trader|50001049|654321|GoldNera
+Trader|50001050|654321|Fash Blush
+Trader|50001051|654321|Hotpiper
+Trader|50001052|654321|Samriddhivastu
+Trader|50001053|654321|Dhrohar
+Trader|50001054|654321|Falconoverseas
+Trader|50001055|654321|LAMS
+Trader|50001056|654321|FashBlush
+Trader|50001057|654321|Chinhhari Arts
+Trader|50001058|654321|Informatix
+Trader|50001059|654321|Vedic Vaani
+Trader|50001060|654321|GCMR
+Trader|50001061|654321|Marwal
+Trader|50001062|654321|Harp
+Trader|50001063|654321|IESD
+Trader|50001064|654321|ETTI
+Trader|50001065|654321|Estella Fashion
+Trader|50001066|654321|Nihar
+Trader|50001067|654321|Jadoo Collections
+Trader|50001068|654321|Jewel Paradise
+Trader|50001069|654321|Jewelnation
+Trader|50001070|654321|SUNVI
+Trader|50001071|654321|Indian Fashion Guru
+Trader|50001072|654321|DressBerry
+Trader|50001073|654321|Homedesires
+Trader|50001074|654321|Pg handicrafts
+Trader|50001075|654321|Fashionzaadi
+Trader|50001076|654321|Intel
+Trader|50001077|654321|Fashion Jewellery
+Trader|50001078|654321|Lekue
+Trader|50001079|654321|Diovanni
+Trader|50001080|654321|Homefoster
+Trader|50001081|654321|Gia
+Trader|50001082|654321|Fashblush
+Trader|50001083|654321|Gadget-Wagon
+Trader|50001084|654321|Apkamart
+Trader|50001085|654321|JaipurCrafts
+Trader|50001086|654321|Frontech
+Trader|50001087|654321|Infinity India
+Trader|50001088|654321|Jaipur Couture
+Trader|50001089|654321|Fabulloso
+Trader|50001090|654321|Hi Look
+Trader|50001091|654321|Hand to Hearts
+Trader|50001092|654321|Jack Martin
+Trader|50001093|654321|Ethnochic
+Trader|50001094|654321|Hedoneesta
+Trader|50001095|654321|Gurjari
+Trader|50001096|654321|Indian Charm
+Trader|50001097|654321|Junk
+Trader|50001098|654321|DSC
+Trader|50001099|654321|Jewel Touch
+Trader|50001100|654321|Jewelizer
+Trader|50001101|654321|Invogue Art
+Trader|50001102|654321|Leoxsys
+Trader|50001103|654321|Hawai
+Trader|50001104|654321|Jocular
+Trader|50001105|654321|Engross
+Trader|50001106|654321|Fashion Pitaraa
+Trader|50001107|654321|Netgear
+Trader|50001108|654321|Merlin
+Trader|50001109|654321|Tenda
+Trader|50001110|654321|Linksys
+Trader|50001111|654321|MK
+Trader|50001112|654321|Di Classe
+Trader|50001113|654321|Intex
+Trader|50001114|654321|Modx
+Trader|50001115|654321|Flirtchick
+Trader|50001116|654321|Asus
+Trader|50001117|654321|Ubiquiti
+Trader|50001118|654321|Ela
+Trader|50001119|654321|JewelsWonder
+Trader|50001120|654321|TP-LINK
+Trader|50001121|654321|Belkin
+Trader|50001122|654321|Jainx
+Trader|50001123|654321|Friendz
+Trader|50001124|654321|Juhi Malhotra
+Trader|50001125|654321|Imagine Products
+Trader|50001126|654321|Apple
+Trader|50001127|654321|Jiya Fashion Pretties
+Trader|50001128|654321|Huawei
+Trader|50001129|654321|Jocalia
+Trader|50001130|654321|Gajraula Crafts
+Trader|50001131|654321|iSweven
+Trader|50001132|654321|TRENDnet
+Trader|50001133|654321|Zoook
+Trader|50001134|654321|Gene Shoppiee
+Trader|50001135|654321|Reins
+Trader|50001136|654321|Schneider
+Trader|50001137|654321|Imli Street
+Trader|50001138|654321|Edimax
+Trader|50001139|654321|imitzworld
+Trader|50001140|654321|Fashion Era
+Trader|50001141|654321|Zyxel
+Trader|50001142|654321|iBall
+Trader|50001143|654321|Fns
+Trader|50001144|654321|Etti
+Trader|50001145|654321|Binatone
+Trader|50001146|654321|Fashionera
+Trader|50001147|654321|Netis
+Trader|50001148|654321|Indsights
+Trader|50001149|654321|TP-Link
+Trader|50001150|654321|Gungun
+Trader|50001151|654321|Greek Sojourn
+Trader|50001152|654321|Havells
+Trader|50001153|654321|Foxy Trend
+Trader|50001154|654321|Jewelsindia
+Trader|50001155|654321|WD
+Trader|50001156|654321|InvogueArt
+Trader|50001157|654321|Fashion Today
+Trader|50001158|654321|Tp-Link
+Trader|50001159|654321|Divaz
+Trader|50001160|654321|Legrand
+Trader|50001161|654321|GIA
+Trader|50001162|654321|Envoy
+Trader|50001163|654321|Lava
+Trader|50001164|654321|Gemstone Pioneer
+Trader|50001165|654321|tp-Link
+Trader|50001166|654321|Exotica
+Trader|50001167|654321|Comfast
+Trader|50001168|654321|Golden Petals
+Trader|50001169|654321|Fashavi
+Trader|50001170|654321|Giftwallas
+Trader|50001171|654321|Jovifashion
+Trader|50001172|654321|Onnet
+Trader|50001173|654321|ISUN
+Trader|50001174|654321|Laploma
+Trader|50001175|654321|Indian Heritage
+Trader|50001176|654321|Setu Infocom
+Trader|50001177|654321|SMC
+Trader|50001178|654321|Viral Shopping
+Trader|50001179|654321|JOVIFashion
+Trader|50001180|654321|Glitz
+Trader|50001181|654321|Vodafone
+Trader|50001182|654321|Freshme Fashion Jewellery
+Trader|50001183|654321|Fashionography
+Trader|50001184|654321|Cubetek
+Trader|50001185|654321|IskiUski
+Trader|50001186|654321|Ganapathy Gems
+Trader|50001187|654321|Iball
+Trader|50001188|654321|Wi-Bridge
+Trader|50001189|654321|Jewelove
+Trader|50001190|654321|Indian Swan
+Trader|50001191|654321|Toto Link
+Trader|50001192|654321|iZOTRON
+Trader|50001193|654321|ASUS
+Trader|50001194|654321|Dress Villa
+Trader|50001195|654321|Jewellerywale
+Trader|50001196|654321|Ditya
+Trader|50001197|654321|Golden Collections
+Trader|50001198|654321|DesiPanache
+Trader|50001199|654321|DressVilla
+Trader|50001200|654321|Airtel
+Trader|50001201|654321|Progear
+Trader|50001202|654321|Decron Jewels
+Trader|50001203|654321|D-LINK
+Trader|50001204|654321|Itz About U
+Trader|50001205|654321|Espoir
+Trader|50001206|654321|Digisol
+Trader|50001207|654321|Avita
+Trader|50001208|654321|IDesign
+Trader|50001209|654321|GUNJAN
+Trader|50001210|654321|SKC
+Trader|50001211|654321|Jewels Guru
+Trader|50001212|654321|Harini
+Trader|50001213|654321|Amantran Jewels
+Trader|50001214|654321|ARISE
+Trader|50001215|654321|Welwear
+Trader|50001216|654321|Clear Face
+Trader|50001217|654321|Saar
+Trader|50001218|654321|YGS
+Trader|50001219|654321|Crocslite
+Trader|50001220|654321|Pari & Prince
+Trader|50001221|654321|Hustler
+Trader|50001222|654321|Majik
+Trader|50001223|654321|CUBA
+Trader|50001224|654321|Packy Poda
+Trader|50001225|654321|Laadli Boutique
+Trader|50001226|654321|D'steek
+Trader|50001227|654321| Remote 
+Trader|50001228|654321|Laadli Bouitique
+Trader|50001229|654321|Very Me
+Trader|50001230|654321|Playhood
+Trader|50001231|654321|BASRA
+Trader|50001232|654321|Smart Choice Furniture
+Trader|50001233|654321|Aasaan
+Trader|50001234|654321|OceaN
+Trader|50001235|654321|Reebok
+Trader|50001236|654321|Mayor
+Trader|50001237|654321|Amardeep
+Trader|50001238|654321|Smartpro
+Trader|50001239|654321|Uptownie Lite
+Trader|50001240|654321|Limerence
+Trader|50001241|654321|Gifts By Meeta
+Trader|50001242|654321|Graco
+Trader|50001243|654321|ZeroKaata
+Trader|50001244|654321|Nova
+Trader|50001245|654321|Anmol
+Trader|50001246|654321|SAF
+Trader|50001247|654321|SUNPLEON
+Trader|50001248|654321|Think3
+Trader|50001249|654321|Fashion18
+Trader|50001250|654321|Awesome
+Trader|50001251|654321|ocean
+Trader|50001252|654321|Clovia
+Trader|50001253|654321|Pantof
+Trader|50001254|654321|Reiki Crystal Products
+Trader|50001255|654321|AROVI
+Trader|50001256|654321|Wise Pebble
+Trader|50001257|654321|Janhvi
+Trader|50001258|654321|Titli
+Trader|50001259|654321|Sonilex
+Trader|50001260|654321|Hadwin
+Trader|50001261|654321|Akin
+Trader|50001262|654321|DeStudio
+Trader|50001263|654321|franco
+Trader|50001264|654321|Shaun
+Trader|50001265|654321|Capeshoppers
+Trader|50001266|654321|HomeEdge
+Trader|50001267|654321|Budding Bees
+Trader|50001268|654321|o.h.m
+Trader|50001269|654321|Hubberholme
+Trader|50001270|654321|Men Style
+Trader|50001271|654321|ZOSIGN
+Trader|50001272|654321|FAUSTO
+Trader|50001273|654321|Be You
+Trader|50001274|654321|Saamarth Impex
+Trader|50001275|654321|Zrestha
+Trader|50001276|654321|H D ENTERPRISE
+Trader|50001277|654321|Magideal
+Trader|50001278|654321|LUX
+Trader|50001279|654321|R-Lon
+Trader|50001280|654321|Power Smart
+Trader|50001281|654321|JewelKraft Designs
+Trader|50001282|654321|Gking
+Trader|50001283|654321|GM
+Trader|50001284|654321|Shrih
+Trader|50001285|654321|ISHWA
+Trader|50001286|654321|Threads & Pals
+Trader|50001287|654321|Baby Bucket
+Trader|50001288|654321|PALSUN WEARS
+Trader|50001289|654321|TERATONIC
+Trader|50001290|654321|NAMS
+Trader|50001291|654321|xy decor
+Trader|50001292|654321|Rute
+Trader|50001293|654321|Favourite BikerZ
+Trader|50001294|654321|Boreal
+Trader|50001295|654321|Lab No. 4
+Trader|50001296|654321|G Fashion
+Trader|50001297|654321|kits kart
+Trader|50001298|654321|Ankita
+Trader|50001299|654321|sovam
+Trader|50001300|654321|Accessoreez
+Trader|50001301|654321|saubhagyawatifashions
+Trader|50001302|654321|KHUSHI HANDICRAFTS
+Trader|50001303|654321|HealthMax
+Trader|50001304|654321|Tidy
+Trader|50001305|654321|Miway
+Trader|50001306|654321|Affinity Jewellers
+Trader|50001307|654321|Imago
+Trader|50001308|654321|GENERIC
+Trader|50001309|654321|Bio Kid
+Trader|50001310|654321|Little Stars
+Trader|50001311|654321|totalcare Expert
+Trader|50001312|654321|Lexel
+Trader|50001313|654321|Aurelia
+Trader|50001314|654321|Besto
+Trader|50001315|654321|AW
+Trader|50001316|654321|SYL
+Trader|50001317|654321|Generix
+Trader|50001318|654321|mobiworld4u
+Trader|50001319|654321|asa products
+Trader|50001320|654321| Bottom Length:18 Inch 
+Trader|50001321|654321|Asavari world
+Trader|50001322|654321|Hako
+Trader|50001323|654321|Silver Kartz
+Trader|50001324|654321|Cobb
+Trader|50001325|654321|Style HD
+Trader|50001326|654321|JBC Collection
+Trader|50001327|654321|Little Frog
+Trader|50001328|654321|Pepe Jeans
+Trader|50001329|654321|Mikado
+Trader|50001330|654321|Damemoda
+Trader|50001331|654321|SG
+Trader|50001332|654321|Ravetech
+Trader|50001333|654321|HH
+Trader|50001334|654321|CLYMB
+Trader|50001335|654321|Columbus
+Trader|50001336|654321|Autokartindia
+Trader|50001337|654321|Look-Kool
+Trader|50001338|654321|Spinn
+Trader|50001339|654321|Aligatorr
+Trader|50001340|654321|WOAP
+Trader|50001341|654321|Chambor
+Trader|50001342|654321|Bajya
+Trader|50001343|654321|Pawtec
+Trader|50001344|654321|Point Fit
+Trader|50001345|654321|Saba Garments
+Trader|50001346|654321|Value Bay
+Trader|50001347|654321|The Crazy Me
+Trader|50001348|654321|Pack N Buy
+Trader|50001349|654321|Cm Treder
+Trader|50001350|654321|Imlee
+Trader|50001351|654321|CEAT
+Trader|50001352|654321|HIMMLISCH
+Trader|50001353|654321|D'Panache
+Trader|50001354|654321|Blue Button
+Trader|50001355|654321|Upside Down
+Trader|50001356|654321|Teddy's choice
+Trader|50001357|654321|Lushomes
+Trader|50001358|654321|BEcom
+Trader|50001359|654321|Emartbuy
+Trader|50001360|654321|Varun
+Trader|50001361|654321|Dyna
+Trader|50001362|654321|Ultra
+Trader|50001363|654321|Slim Fit
+Trader|50001364|654321|Grafion
+Trader|50001365|654321|Peepal Comm
+Trader|50001366|654321|Storite
+Trader|50001367|654321|eGizmos
+Trader|50001368|654321|KoldFire
+Trader|50001369|654321|Scalabedding
+Trader|50001370|654321|SRP Linen
+Trader|50001371|654321|Cello
+Trader|50001372|654321|Ethnic Rajasthan
+Trader|50001373|654321|Mickey And Friends
+Trader|50001374|654321|Dhiyaa Traders
+Trader|50001375|654321|Surprise Gifts
+Trader|50001376|654321|JBN Creation
+Trader|50001377|654321|snjmart
+Trader|50001378|654321|Manjaree
+Trader|50001379|654321|RJ
+Trader|50001380|654321|Sound Logic
+Trader|50001381|654321|Ace
+Trader|50001382|654321|LIFE LIKE
+Trader|50001383|654321|Toy Balloon Kids
+Trader|50001384|654321|Aria
+Trader|50001385|654321|RosesNRibbons
+Trader|50001386|654321|Adiva
+Trader|50001387|654321|VASTUGHAR
+Trader|50001388|654321|50Hz Energy Rating ★★★ Solar Panel Dimensions Height 0.2 mm Width 0.2 mm Depth 0.2 mm Dimensions Cord Length 2 m Weight 350 g Height 125.5 mm Width 10 mm Depth 0.5 mm Weight without Batteries 300 g Charging Features Operating Time - Reduced Light 8 hrs Charging Time 3 hrs Operating Time - Continuous Light 8 hrs Operating Time - Full Bright 6 hrs Solar Charging Time 3 hrs Initial Charging Time 3 hrs Operating Time - Solar Energy 3 hrs Operating Time - AC Mains 3 hrs Maximum Number of Recharges 200 Additional Features Control Button Types Push Button In the Box Solar Lamp
+Trader|50001389|654321|Cutecumber
+Trader|50001390|654321|INAYA
+Trader|50001391|654321|Dhhan
+Trader|50001392|654321|Audeze
+Trader|50001393|654321|Dynex
+Trader|50001394|654321|Shop Swipe
+Trader|50001395|654321|Quenell
+Trader|50001396|654321|Jack & Jones
+Trader|50001397|654321|Aarika
+Trader|50001398|654321|SINGHAM
+Trader|50001399|654321|SAARAH
+Trader|50001400|654321|A A STORE
+Trader|50001401|654321|Ruby
+Trader|50001402|654321|Flair
+Trader|50001403|654321|NELL
+Trader|50001404|654321|Schwarzkopf
+Trader|50001405|654321|Cello Furniture
+Trader|50001406|654321|Takspin
+Trader|50001407|654321|Birdy
+Trader|50001408|654321|THINK3
+Trader|50001409|654321|Swag India
+Trader|50001410|654321|Retaaz
+Trader|50001411|654321|HP
+Trader|50001412|654321|Sanaa Creations
+Trader|50001413|654321|GRSTECH
+Trader|50001414|654321|Radius
+Trader|50001415|654321|Be 13
+Trader|50001416|654321|WRITEFLO
+Trader|50001417|654321|Naxa Electronics
+Trader|50001418|654321|PANIT
+Trader|50001419|654321|TIGI BED HEAD
+Trader|50001420|654321|CrayonFlakes
+Trader|50001421|654321|Pumpkin Patch
+Trader|50001422|654321|L Oreal
+Trader|50001423|654321|Clairol
+Trader|50001424|654321|Amit Carpet
+Trader|50001425|654321|Eurotex
+Trader|50001426|654321|vatika
+Trader|50001427|654321|Matrix
+Trader|50001428|654321|Spin Master
+Trader|50001429|654321|King Traders
+Trader|50001430|654321|Garnier
+Trader|50001431|654321|Fs Mini Klub
+Trader|50001432|654321|Chokree
+Trader|50001433|654321|Amirich
+Trader|50001434|654321|Pioneer International
+Trader|50001435|654321|Bells and Whistles
+Trader|50001436|654321|Magneto
+Trader|50001437|654321|Laser X
+Trader|50001438|654321|Famaya
+Trader|50001439|654321|Feminin
+Trader|50001440|654321|AJ Dezines
+Trader|50001441|654321|E'Hiose
+Trader|50001442|654321|KHI
+Trader|50001443|654321|Smart Picks
+Trader|50001444|654321|Shop4everything
+Trader|50001445|654321|United Colors of Benetton
+Trader|50001446|654321|Tomafo
+Trader|50001447|654321|beebay
+Trader|50001448|654321|The House of Tara
+Trader|50001449|654321|Shop & Shoppee
+Trader|50001450|654321|Clazz
+Trader|50001451|654321|ABSTAR
+Trader|50001452|654321|V-GRIP
+Trader|50001453|654321|WEIDELI
+Trader|50001454|654321|crompton
+Trader|50001455|654321|GoMerryKids
+Trader|50001456|654321|U United
+Trader|50001457|654321|SVVM
+Trader|50001458|654321|Legato
+Trader|50001459|654321|TeeSort
+Trader|50001460|654321|Crompton
+Trader|50001461|654321|Harissons
+Trader|50001462|654321|Hoffrichter
+Trader|50001463|654321|Fun Box
+Trader|50001464|654321|Right
+Trader|50001465|654321|narayan export
+Trader|50001466|654321|urban monk creations
+Trader|50001467|654321|At Ur Door
+Trader|50001468|654321|Tks
+Trader|50001469|654321|Himalayan Sutra
+Trader|50001470|654321|LAADLI JI
+Trader|50001471|654321|Vetra
+Trader|50001472|654321|Tootpado
+Trader|50001473|654321|TREO
+Trader|50001474|654321|Khadi Herbal
+Trader|50001475|654321|Accore
+Trader|50001476|654321|OGX
+Trader|50001477|654321|giftsthatwow
+Trader|50001478|654321|EZRA
+Trader|50001479|654321|Allin Exporters
+Trader|50001480|654321|Emagica
+Trader|50001481|654321|MICROi
+Trader|50001482|654321|Lucky Thailand
+Trader|50001483|654321|Pasabahce
+Trader|50001484|654321|Loreal Paris
+Trader|50001485|654321|Art n Beyond
+Trader|50001486|654321|Mad(e) in India
+Trader|50001487|654321|CLASSY
+Trader|50001488|654321|ORIFLAME SWEDEN
+Trader|50001489|654321|Wella
+Trader|50001490|654321|Cotonex
+Trader|50001491|654321|GAGA
+Trader|50001492|654321|Cayman
+Trader|50001493|654321|Nineteen
+Trader|50001494|654321|IndiWeaves
+Trader|50001495|654321|Marami
+Trader|50001496|654321|Stallion Barware
+Trader|50001497|654321|Cinderella
+Trader|50001498|654321|Easy Gardening
+Trader|50001499|654321|Blessed
+Trader|50001500|654321|Yuccabe Italia
+Trader|50001501|654321|Super Drool
+Trader|50001502|654321|Toygully
+Trader|50001503|654321|Rk
+Trader|50001504|654321|Pyramid Cocopeat
+Trader|50001505|654321|VGreen
+Trader|50001506|654321|Sutra Decor
+Trader|50001507|654321|Kraft Seeds
+Trader|50001508|654321|Green Girgit
+Trader|50001509|654321|First Smart Deal
+Trader|50001510|654321|Agricart
+Trader|50001511|654321|Natures Plus
+Trader|50001512|654321|Divine Tree
+Trader|50001513|654321|Martha
+Trader|50001514|654321|Height Of Designs
+Trader|50001515|654321|Storm
+Trader|50001516|654321|Real Seed
+Trader|50001517|654321|Clublaptop
+Trader|50001518|654321|Radongrow
+Trader|50001519|654321|Lapguard
+Trader|50001520|654321|Wonderland
+Trader|50001521|654321|The Yellow Door
+Trader|50001522|654321|Shreewardhan Decor
+Trader|50001523|654321|Minerva Naturals
+Trader|50001524|654321|ARB
+Trader|50001525|654321|Rega IT
+Trader|50001526|654321|DGB
+Trader|50001527|654321|Atlantic
+Trader|50001528|654321|Cambio
+Trader|50001529|654321|Color Palatte
+Trader|50001530|654321|Joy Living
+Trader|50001531|654321|Craftghar
+Trader|50001532|654321|4D
+Trader|50001533|654321|E-plant
+Trader|50001534|654321|Minervanaturals
+Trader|50001535|654321|Mennenni Life Sciences
+Trader|50001536|654321|RCE
+Trader|50001537|654321|Autopot
+Trader|50001538|654321|KKD
+Trader|50001539|654321|Pepup
+Trader|50001540|654321|Vgreen
+Trader|50001541|654321|Hkge
+Trader|50001542|654321|Inspired Livingg
+Trader|50001543|654321|Aadi
+Trader|50001544|654321|RIPR
+Trader|50001545|654321|Olvin
+Trader|50001546|654321|piftif
+Trader|50001547|654321|People
+Trader|50001548|654321|SAY
+Trader|50001549|654321|Pu-Good
+Trader|50001550|654321|run of luck
+Trader|50001551|654321|killys
+Trader|50001552|654321|TSG Breeze
+Trader|50001553|654321|Pout
+Trader|50001554|654321|Dilan Jewels
+Trader|50001555|654321|classyworld
+Trader|50001556|654321|HANS
+Trader|50001557|654321|Rugby
+Trader|50001558|654321|Chickraft
+Trader|50001559|654321|Firangi
+Trader|50001560|654321|Urban Girl
+Trader|50001561|654321|FEET FLOW
+Trader|50001562|654321|Metro Sports
+Trader|50001563|654321|Jazz Eyewears
+Trader|50001564|654321|Miss Wow
+Trader|50001565|654321|Zidane
+Trader|50001566|654321|SMART TRADERS
+Trader|50001567|654321|Viral Girl
+Trader|50001568|654321|Shopfloor.XYZ
+Trader|50001569|654321|PrivateLifes
+Trader|50001570|654321|Body Balance
+Trader|50001571|654321|COIRFIT
+Trader|50001572|654321|Skywalk
+Trader|50001573|654321|Blinkin
+Trader|50001574|654321|e-Fresh
+Trader|50001575|654321|Qline
+Trader|50001576|654321|Monmione
+Trader|50001577|654321|Legmark
+Trader|50001578|654321|Siyas Collection
+Trader|50001579|654321|Dassler
+Trader|50001580|654321|SLS
+Trader|50001581|654321|Palakz
+Trader|50001582|654321|Yellow Pingo
+Trader|50001583|654321|Naughty Ninos
+Trader|50001584|654321|REMSON INDIA
+Trader|50001585|654321|Penny jewels
+Trader|50001586|654321|INDILEGO
+Trader|50001587|654321|Flipside
+Trader|50001588|654321|Naaz
+Trader|50001589|654321|EGON
+Trader|50001590|654321|SDZ
+Trader|50001591|654321|Oly Two
+Trader|50001592|654321|soie
+Trader|50001593|654321|Auraa
+Trader|50001594|654321|Furnishing Zone
+Trader|50001595|654321|Attitude
+Trader|50001596|654321|Kalpaveda
+Trader|50001597|654321|Walkline
+Trader|50001598|654321|D&D
+Trader|50001599|654321|Hitobito
+Trader|50001600|654321|Woly
+Trader|50001601|654321|Ruhi's Creations
+Trader|50001602|654321|METMO
+Trader|50001603|654321|The Cotton Company
+Trader|50001604|654321|Samprada
+Trader|50001605|654321|Camey
+Trader|50001606|654321|Colour Me Mad
+Trader|50001607|654321|Wellon
+Trader|50001608|654321|Evana
+Trader|50001609|654321|Amita Home Furnishing
+Trader|50001610|654321|LRB
+Trader|50001611|654321|Impala
+Trader|50001612|654321|Sonpra
+Trader|50001613|654321|DOCOSS
+Trader|50001614|654321|INDOART
+Trader|50001615|654321|Moladz
+Trader|50001616|654321|Twin
+Trader|50001617|654321|Fly U
+Trader|50001618|654321|Crafty Hands
+Trader|50001619|654321|tadd
+Trader|50001620|654321|Ritco
+Trader|50001621|654321|Dolz
+Trader|50001622|654321|DOLZ
+Trader|50001623|654321|My Lil' Berry
+Trader|50001624|654321|Nivea
+Trader|50001625|654321|LondonHouze
+Trader|50001626|654321|Fisher-Price
+Trader|50001627|654321|PEDI SPIN
+Trader|50001628|654321|Linzina Fashions
+Trader|50001629|654321|ELLE
+Trader|50001630|654321|Black & Decker
+Trader|50001631|654321|MIRICHI
+Trader|50001632|654321|Foot Candy
+Trader|50001633|654321|Babyoye Premium
+Trader|50001634|654321|883 Police
+Trader|50001635|654321|Just Wow
+Trader|50001636|654321|Arcley
+Trader|50001637|654321|NESTWELL
+Trader|50001638|654321|Decore Sources
+Trader|50001639|654321|Wadhwa creations
+Trader|50001640|654321|Miracle Retail
+Trader|50001641|654321|Mayursflora
+Trader|50001642|654321|Smart Shophar
+Trader|50001643|654321|Subh-Akriti
+Trader|50001644|654321|TAKE CARE
+Trader|50001645|654321|Raaisin
+Trader|50001646|654321|CarMobCentral
+Trader|50001647|654321|V Creations
+Trader|50001648|654321|TPH Covers
+Trader|50001649|654321|nayasa
+Trader|50001650|654321|LITTLE FEETZ
+Trader|50001651|654321|TSG Escape
+Trader|50001652|654321|Poetry Accessories
+Trader|50001653|654321|Kaizer Jewelry
+Trader|50001654|654321|i-KitPit
+Trader|50001655|654321|Ciemme
+Trader|50001656|654321|BMS Lifestyle
+Trader|50001657|654321|WearYourShine by PCJ
+Trader|50001658|654321|Jacknjewel
+Trader|50001659|654321|Alluring
+Trader|50001660|654321|ALLURING
+Trader|50001661|654321|Sparkle Street
+Trader|50001662|654321|GB Jewellery
+Trader|50001663|654321|Eldora
+Trader|50001664|654321|Sifty Collection
+Trader|50001665|654321|OOBINNO
+Trader|50001666|654321|TwiQ S.A. Garments
+Trader|50001667|654321|Athena
+Trader|50001668|654321|CarReflection
+Trader|50001669|654321|Royal Enfield
+Trader|50001670|654321|INDIRANG
+Trader|50001671|654321|Transtal
+Trader|50001672|654321|Embellish outfits
+Trader|50001673|654321|ADDICTION
+Trader|50001674|654321|MAC
+Trader|50001675|654321|Sushito
+Trader|50001676|654321|R&Mshoppee
+Trader|50001677|654321|E.L.F
+Trader|50001678|654321|Fellowes
+Trader|50001679|654321|Shaftesbury London
+Trader|50001680|654321|Stylenara
+Trader|50001681|654321|posterchacha
+Trader|50001682|654321|Handiana
+Trader|50001683|654321|Newgen Tech
+Trader|50001684|654321|Scion
+Trader|50001685|654321|misshruts
+Trader|50001686|654321|NITGEN
+Trader|50001687|654321|Buyer's Beach
+Trader|50001688|654321|rainfun
+Trader|50001689|654321|Curren Nx
+Trader|50001690|654321|Fuschia
+Trader|50001691|654321|Nude
+Trader|50001692|654321|Silco
+Trader|50001693|654321|Smart Fit
+Trader|50001694|654321|Park Avenue
+Trader|50001695|654321|White and Blue
+Trader|50001696|654321|Steel
+Trader|50001697|654321|Sterling
+Trader|50001698|654321|NILE BLUE
+Trader|50001699|654321|Hot Pink
+Trader|50001700|654321|Buynow
+Trader|50001701|654321|Goodkarma
+Trader|50001702|654321|Polkakart
+Trader|50001703|654321|Marc N' Park
+Trader|50001704|654321|Clear Shield
+Trader|50001705|654321|TRINK
+Trader|50001706|654321|Ebry
+Trader|50001707|654321|Polyfibre
+Trader|50001708|654321|Soulful Threads
+Trader|50001709|654321|Celebration Mart
+Trader|50001710|654321|Swiss Beauty
+Trader|50001711|654321|Pavino
+Trader|50001712|654321|MTB
+Trader|50001713|654321|Krazy Fitness
+Trader|50001714|654321|Kemei
+Trader|50001715|654321|DENIM CAFE
+Trader|50001716|654321|Flying Port
+Trader|50001717|654321|Zombom
+Trader|50001718|654321|Hoffmen
+Trader|50001719|654321|Heart 2 Heart
+Trader|50001720|654321|Ole Baby
+Trader|50001721|654321|LUMENPULSE
+Trader|50001722|654321|Mazda Energy
+Trader|50001723|654321|John Players
+Trader|50001724|654321|vinaya
+Trader|50001725|654321|Adishma
+Trader|50001726|654321|Happy walls
+Trader|50001727|654321|Menow
+Trader|50001728|654321|Blue Heaven
+Trader|50001729|654321|Rrsskids
+Trader|50001730|654321|La Shades
+Trader|50001731|654321|GISOLE
+Trader|50001732|654321|Style Homez
+Trader|50001733|654321|NOMADIC
+Trader|50001734|654321|Ddreamz
+Trader|50001735|654321|Clever Steps
+Trader|50001736|654321|Pure Play
+Trader|50001737|654321|Gato
+Trader|50001738|654321|Sparx
+Trader|50001739|654321|Red Chief
+Trader|50001740|654321|Njoy
+Trader|50001741|654321|Ally The Creations
+Trader|50001742|654321|Rajdoot
+Trader|50001743|654321|Cheeky Chompers
+Trader|50001744|654321|Taraash
+Trader|50001745|654321|Lolprint
+Trader|50001746|654321|KALYANI COVERING
+Trader|50001747|654321|Piyo Piyo
+Trader|50001748|654321|Chipmunk
+Trader|50001749|654321|reenak
+Trader|50001750|654321|Rossini
+Trader|50001751|654321|s2s
+Trader|50001752|654321|SWARN
+Trader|50001753|654321|eKolhapuri
+Trader|50001754|654321|keco
+Trader|50001755|654321|Magic
+Trader|50001756|654321|Do Bhai
+Trader|50001757|654321|ab posters
+Trader|50001758|654321|Hariom enterprises
+Trader|50001759|654321|Reyes Reales
+Trader|50001760|654321|Clareo
+Trader|50001761|654321|Innovative
+Trader|50001762|654321|NAISHA
+Trader|50001763|654321|JJ JONEX
+Trader|50001764|654321|MODWARE
+Trader|50001765|654321|FAB FASHION
+Trader|50001766|654321|Oral Care
+Trader|50001767|654321|Theme United
+Trader|50001768|654321|Shreya Collection
+Trader|50001769|654321|Sunvalley
+Trader|50001770|654321|Atithi
+Trader|50001771|654321|PINK FEVER
+Trader|50001772|654321|Paranoid
+Trader|50001773|654321|Funcart
+Trader|50001774|654321|Ophion
+Trader|50001775|654321|IndianShelf
+Trader|50001776|654321|LUCINA
+Trader|50001777|654321|Tech Gear
+Trader|50001778|654321|Kothari
+Trader|50001779|654321|My DT Lifestyle
+Trader|50001780|654321|PurePlay
+Trader|50001781|654321|SAE FASHIONS
+Trader|50001782|654321|Cotts Hub
+Trader|50001783|654321|Trendy Girls
+Trader|50001784|654321|Pogo
+Trader|50001785|654321|Pokizo
+Trader|50001786|654321|Indianbeauty
+Trader|50001787|654321|Mahek Saree
+Trader|50001788|654321|Titrit
+Trader|50001789|654321|Young Birds
+Trader|50001790|654321|Urban Diseno
+Trader|50001791|654321|Vipul Saree
+Trader|50001792|654321|BOMBAY VELVAT FAB
+Trader|50001793|654321|walletsnbags
+Trader|50001794|654321|Kazo
+Trader|50001795|654321|chota packet
+Trader|50001796|654321|Monte Carlo
+Trader|50001797|654321|Rdx
+Trader|50001798|654321|Vedant Lifestyle
+Trader|50001799|654321|Spink
+Trader|50001800|654321|You Got Plan B
+Trader|50001801|654321|KID'S STOP
+Trader|50001802|654321|LATHERO
+Trader|50001803|654321|V3iShop
+Trader|50001804|654321|Download Apparel
+Trader|50001805|654321|Broche
+Trader|50001806|654321|YELLOW CHIMES
+Trader|50001807|654321|Ashdan
+Trader|50001808|654321|AUTOSiTY
+Trader|50001809|654321|L'appel Du vide
+Trader|50001810|654321|Johnson's Baby
+Trader|50001811|654321|Sheetal
+Trader|50001812|654321|Nature Gold
+Trader|50001813|654321|Sona
+Trader|50001814|654321|Zero
+Trader|50001815|654321|SJ
+Trader|50001816|654321|Pia International
+Trader|50001817|654321|BM BELMONTE
+Trader|50001818|654321|Kanvin
+Trader|50001819|654321|MARVEL
+Trader|50001820|654321|DISNEY
+Trader|50001821|654321|Oxolloxo
+Trader|50001822|654321|Total
+Trader|50001823|654321|Car vastra
+Trader|50001824|654321|STERN
+Trader|50001825|654321|CPEX
+Trader|50001826|654321|Gravolite
+Trader|50001827|654321|CALTRIX
+Trader|50001828|654321|Sj
+Trader|50001829|654321|PURBI CRAFTS
+Trader|50001830|654321|zasmina
+Trader|50001831|654321|ShopSince
+Trader|50001832|654321|Metmo
+Trader|50001833|654321|Boss
+Trader|50001834|654321|Wayona
+Trader|50001835|654321|codio World
+Trader|50001836|654321|AutoKraftZ
+Trader|50001837|654321|Triumph
+Trader|50001838|654321|Home Fashion Gallery
+Trader|50001839|654321|Quiksilver
+Trader|50001840|654321|Ville Style
+Trader|50001841|654321|Petto
+Trader|50001842|654321|Vector X
+Trader|50001843|654321|MeeMee
+Trader|50001844|654321|Fab Nisa
+Trader|50001845|654321|KANCHOO
+Trader|50001846|654321|HUNYBUNI
+Trader|50001847|654321|ABIDA
+Trader|50001848|654321|Sarah
+Trader|50001849|654321|Wonderchef
+Trader|50001850|654321|Kushies baby
+Trader|50001851|654321|Ivon
+Trader|50001852|654321|My Look
+Trader|50001853|654321|C9
+Trader|50001854|654321|Go India Store
+Trader|50001855|654321|Gee & Bee
+Trader|50001856|654321|Yepme
+Trader|50001857|654321|SHOPRIDER
+Trader|50001858|654321|Wow!
+Trader|50001859|654321|MIb
+Trader|50001860|654321|CHOCOBERRY
+Trader|50001861|654321|CLUB YORK
+Trader|50001862|654321|Chipchop
+Trader|50001863|654321|Jacadi Paris
+Trader|50001864|654321|Kawachi
+Trader|50001865|654321|Andrew Christian
+Trader|50001866|654321|Tiny Toon
+Trader|50001867|654321|Axcess
+Trader|50001868|654321|Deepvan
+Trader|50001869|654321|FIFO
+Trader|50001870|654321|Mom & Me
+Trader|50001871|654321|RIANZ
+Trader|50001872|654321|Polaroid
+Trader|50001873|654321|Geol
+Trader|50001874|654321|Newdort
+Trader|50001875|654321|Pollo
+Trader|50001876|654321|Kozdiko
+Trader|50001877|654321|Sunlast
+Trader|50001878|654321|V&G Professional
+Trader|50001879|654321|Little Kangaroos
+Trader|50001880|654321|Lee Parke
+Trader|50001881|654321|VASTRAM
+Trader|50001882|654321|Shonaya
+Trader|50001883|654321|JUSF2
+Trader|50001884|654321|aadi
+Trader|50001885|654321|Sonaxo
+Trader|50001886|654321|AapnoCrafts
+Trader|50001887|654321|Tangerine
+Trader|50001888|654321|Mentiezi
+Trader|50001889|654321|Silver Shoppee
+Trader|50001890|654321|next steps
+Trader|50001891|654321|Golden Peacock
+Trader|50001892|654321|NammaBaby
+Trader|50001893|654321|Quechua
+Trader|50001894|654321|Outdazzle
+Trader|50001895|654321|Samaa
+Trader|50001896|654321|Ruvee
+Trader|50001897|654321|Avaron Projekt
+Trader|50001898|654321|B R TRADING
+Trader|50001899|654321|Senterlan
+Trader|50001900|654321|WI Retail
+Trader|50001901|654321|Outgear
+Trader|50001902|654321|Avaron projekt
+Trader|50001903|654321|Fashion Point
+Trader|50001904|654321|gurjari
+Trader|50001905|654321|Wi Retail
+Trader|50001906|654321|Max
+Trader|50001907|654321|SENECIO
+Trader|50001908|654321|ANAHI
+Trader|50001909|654321|Variation
+Trader|50001910|654321|Shihibas
+Trader|50001911|654321|Thakkar
+Trader|50001912|654321|612 League
+Trader|50001913|654321|B-Fashionable
+Trader|50001914|654321|Mivera
+Trader|50001915|654321|Wildcraft
+Trader|50001916|654321|sharp n style
+Trader|50001917|654321|MYFAA
+Trader|50001918|654321|Dimple Creation
+Trader|50001919|654321|N Choice
+Trader|50001920|654321|Mount Track
+Trader|50001921|654321|Coleman
+Trader|50001922|654321|adidas
+Trader|50001923|654321|hbs saree pin
+Trader|50001924|654321|Decot Paradise
+Trader|50001925|654321|ZAIN
+Trader|50001926|654321|jaisayram
+Trader|50001927|654321|Good Night
+Trader|50001928|654321|ROYAL ERADO
+Trader|50001929|654321|Aavaya Fashion
+Trader|50001930|654321|SATYA SITA
+Trader|50001931|654321|Sonanjali
+Trader|50001932|654321|RadadiyaTRD
+Trader|50001933|654321|ROSHNI FASHIONS
+Trader|50001934|654321|Pakiza Design
+Trader|50001935|654321|Design Desk
+Trader|50001936|654321|Shamrock
+Trader|50001937|654321|NeedyBee
+Trader|50001938|654321|Seals
+Trader|50001939|654321|LUXANTRA
+Trader|50001940|654321|Galexy Fashion
+Trader|50001941|654321|Small Toes
+Trader|50001942|654321|Unique Fashion
+Trader|50001943|654321|Ovente
+Trader|50001944|654321|OEM
+Trader|50001945|654321|Glamour
+Trader|50001946|654321|Koie
+Trader|50001947|654321|K&N
+Trader|50001948|654321|Imagica
+Trader|50001949|654321|Kook N Keech Disney
+Trader|50001950|654321|Barbar
+Trader|50001951|654321|Fab Palace
+Trader|50001952|654321|LAIBA
+Trader|50001953|654321|C. O. Bigelow
+Trader|50001954|654321|Apoxy
+Trader|50001955|654321|Pulse Audio
+Trader|50001956|654321|BaBylissPRO
+Trader|50001957|654321|Conair
+Trader|50001958|654321|RX7 Superlite
+Trader|50001959|654321|REDMOMD
+Trader|50001960|654321|Pro biker
+Trader|50001961|654321|Daxter
+Trader|50001962|654321|Krasiv
+Trader|50001963|654321|Rusk
+Trader|50001964|654321|Esteem
+Trader|50001965|654321|Salon Tech
+Trader|50001966|654321|Sai Senorita
+Trader|50001967|654321|Merchant eshop
+Trader|50001968|654321|xpert
+Trader|50001969|654321|Varmora
+Trader|50001970|654321|Le Angelique
+Trader|50001971|654321|Creez
+Trader|50001972|654321|INEXT
+Trader|50001973|654321|Robotel
+Trader|50001974|654321|HNK
+Trader|50001975|654321|Sutra Beauty
+Trader|50001976|654321|KLOCX
+Trader|50001977|654321|Archi Collection
+Trader|50001978|654321|NIKsales
+Trader|50001979|654321|HomeeHub
+Trader|50001980|654321|Akshyavat
+Trader|50001981|654321|Marvel
+Trader|50001982|654321|American Diamond
+Trader|50001983|654321|Creative Width Decor
+Trader|50001984|654321|Fresh From Loom
+Trader|50001985|654321|Handloom Hut
+Trader|50001986|654321|Syska Led Lights
+Trader|50001987|654321|Chota Bheem
+Trader|50001988|654321|Rhythem Listers
+Trader|50001989|654321|Campap
+Trader|50001990|654321|Bling
+Trader|50001991|654321|Home Creations
+Trader|50001992|654321|Handloomhub
+Trader|50001993|654321|Fabutex
+Trader|50001994|654321|ATC
+Trader|50001995|654321|The Intellect Bazaar
+Trader|50001996|654321|APS
+Trader|50001997|654321|Tradon
+Trader|50001998|654321|JLRS Bumper Case for Acer Iconia W3-810
+Trader|50001999|654321|BornBabyKids
+Trader|50002000|654321|Treasure Trunk
+Trader|50002001|654321|Piedpaper
+Trader|50002002|654321|Vatsalya Creation
+Trader|50002003|654321|Matrikas
+Trader|50002004|654321|Raghav India
+Trader|50002005|654321|Send Rakhis to India
+Trader|50002006|654321|umda
+Trader|50002007|654321|Instapower
+Trader|50002008|654321|Store Indya
+Trader|50002009|654321|Classique Designer Jewellery
+Trader|50002010|654321|Filofax
+Trader|50002011|654321|IFROGZ
+Trader|50002012|654321|Iwonder
+Trader|50002013|654321|Philips
+Trader|50002014|654321|Classmate
+Trader|50002015|654321|Daycraft
+Trader|50002016|654321|Swarnim Jewellers
+Trader|50002017|654321|"JLRS Bumper Case for Datawind Ubislate 10Ci 
+Trader|50002018|654321|Durian
+Trader|50002019|654321|Divine Gifts & Artificial Jewellery
+Trader|50002020|654321|Sony
+Trader|50002021|654321|Elan
+Trader|50002022|654321|ARRA
+Trader|50002023|654321|Sunita Fashion
+Trader|50002024|654321|Galaxy Decorations
+Trader|50002025|654321|Aarya 24kt
+Trader|50002026|654321|Rajasthani emporium
+Trader|50002027|654321|Bless
+Trader|50002028|654321|Welhouse
+Trader|50002029|654321|Karukraft
+Trader|50002030|654321|Designwallas
+Trader|50002031|654321|Type R
+Trader|50002032|654321|SthriElite
+Trader|50002033|654321|IPP
+Trader|50002034|654321|Furhome
+Trader|50002035|654321|Easy4buy
+Trader|50002036|654321|Elkoha
+Trader|50002037|654321|Ornate
+Trader|50002038|654321|Shrikant Traders
+Trader|50002039|654321|Rainz Gold
+Trader|50002040|654321|Mama & Bebe
+Trader|50002041|654321|VRCT
+Trader|50002042|654321|Fastway
+Trader|50002043|654321|BabyBucket
+Trader|50002044|654321|Being Women
+Trader|50002045|654321|Anshul Fashion
+Trader|50002046|654321|Utsavi
+Trader|50002047|654321|Global Ganesha
+Trader|50002048|654321|Blush Collections
+Trader|50002049|654321|Minda Black Current
+Trader|50002050|654321|Beora
+Trader|50002051|654321|Bharat
+Trader|50002052|654321|Camelion
+Trader|50002053|654321|Simoco
+Trader|50002054|654321|Neyth
+Trader|50002055|654321|Buy JLRS Bumper Case for HP Slate 6 Voice Tab
+Trader|50002056|654321|AsiaCraft
+Trader|50002057|654321|Ocean Free
+Trader|50002058|654321|Amour
+Trader|50002059|654321|Xtreme
+Trader|50002060|654321|Creativity Centre
+Trader|50002061|654321|HomeTown
+Trader|50002062|654321|Furnstyl
+Trader|50002063|654321|Soy Impulse
+Trader|50002064|654321|Orient
+Trader|50002065|654321|My Design
+Trader|50002066|654321|Solah Shringar
+Trader|50002067|654321|Zaveri Pearls
+Trader|50002068|654321|Zeneme
+Trader|50002069|654321|Kuhuk
+Trader|50002070|654321|YouBella
+Trader|50002071|654321|BAFNA GEMS & JEWELS
+Trader|50002072|654321|The Jewelbox
+Trader|50002073|654321|Rubera
+Trader|50002074|654321|Sanayacollection
+Trader|50002075|654321|Pissara
+Trader|50002076|654321|Muchmore
+Trader|50002077|654321|Kanu
+Trader|50002078|654321|Eco Haat
+Trader|50002079|654321|Jewbang
+Trader|50002080|654321|Finesse
+Trader|50002081|654321|Eveready
+Trader|50002082|654321|MOCC
+Trader|50002083|654321|Rashmi
+Trader|50002084|654321|Bosch
+Trader|50002085|654321|Camy
+Trader|50002086|654321|InstaNote
+Trader|50002087|654321|Quartz
+Trader|50002088|654321|Kolorfame
+Trader|50002089|654321|Jojo
+Trader|50002090|654321|Beautywear
+Trader|50002091|654321|Jewelmantra
+Trader|50002092|654321|Wallmantra
+Trader|50002093|654321|Glam Accessories
+Trader|50002094|654321|Nirvana
+Trader|50002095|654321|Frazzer
+Trader|50002096|654321|Shashvat Jewels
+Trader|50002097|654321|100% genuine product Package Content: 1 Sunglass with Case Frame Material: Plastic
+Trader|50002098|654321|Pakshal Premium
+Trader|50002099|654321|Skycandle.in
+Trader|50002100|654321|Radhesh Creation
+Trader|50002101|654321|RED HORSE
+Trader|50002102|654321|RAJSAHI
+Trader|50002103|654321|Kanha poshak
+Trader|50002104|654321|SCANTIA
+Trader|50002105|654321|Stylla
+Trader|50002106|654321|Kittens
+Trader|50002107|654321|Kalt
+Trader|50002108|654321|Aimedu Toy
+Trader|50002109|654321|Panditnmshrimali
+Trader|50002110|654321|Kiosha
+Trader|50002111|654321|Relaxed
+Trader|50002112|654321|HouseAttire
+Trader|50002113|654321|Regular fit
+Trader|50002114|654321|Sukkhi
+Trader|50002115|654321|The Fancy Mart
+Trader|50002116|654321|Charvee
+Trader|50002117|654321|Tiara Gems
+Trader|50002118|654321|Madhyam Art
+Trader|50002119|654321|Bhavika
+Trader|50002120|654321|Vedika Jewellery
+Trader|50002121|654321|The Pari
+Trader|50002122|654321|Beingwomen
+Trader|50002123|654321|Shivam
+Trader|50002124|654321|Ethnic Jewels
+Trader|50002125|654321|Shining Diva
+Trader|50002126|654321|Viva Fashions
+Trader|50002127|654321|JANKI JEWELLERS
+Trader|50002128|654321|Prisha Collections
+Trader|50002129|654321|Vismay Creation
+Trader|50002130|654321|Dapinc
+Trader|50002131|654321|Paul Chains
+Trader|50002132|654321|Luxor
+Trader|50002133|654321|Moonleaf
+Trader|50002134|654321|Tradeyard Impex
+Trader|50002135|654321|NJ
+Trader|50002136|654321|Mrigya
+Trader|50002137|654321|Realx Fit
+Trader|50002138|654321|Plus
+Trader|50002139|654321|regular
+Trader|50002140|654321|HKJ
+Trader|50002141|654321|Kalaai
+Trader|50002142|654321|Aayat
+Trader|50002143|654321|Casual
+Trader|50002144|654321|Sharani
+Trader|50002145|654321|Prisha
+Trader|50002146|654321|Praniti
+Trader|50002147|654321|Nirosha
+Trader|50002148|654321|Awari
+Trader|50002149|654321|Amore
+Trader|50002150|654321|Wecart
+Trader|50002151|654321|Desirica
+Trader|50002152|654321|Abqa Hydrabadi Bangle
+Trader|50002153|654321|Comfort
+Trader|50002154|654321|SG Creations
+Trader|50002155|654321|Multiline Company
+Trader|50002156|654321|Cocktail
+Trader|50002157|654321|Aapti
+Trader|50002158|654321|Blueberry
+Trader|50002159|654321|University Trendz
+Trader|50002160|654321|Fashion Fusion
+Trader|50002161|654321|Imc Deals
+Trader|50002162|654321|TOPQ
+Trader|50002163|654321|Xupply
+Trader|50002164|654321|khodal fashion
+Trader|50002165|654321|Airwind
+Trader|50002166|654321|fashion rudraksh
+Trader|50002167|654321|Vgstore
+Trader|50002168|654321|KolorFish
+Trader|50002169|654321|Enthopia
+Trader|50002170|654321|Jisha
+Trader|50002171|654321|Advent Crafts
+Trader|50002172|654321|Skys&Ray
+Trader|50002173|654321|JacknJewel
+Trader|50002174|654321|Sapatos
+Trader|50002175|654321|Aviiq
+Trader|50002176|654321|Jaipur Raga
+Trader|50002177|654321|Eureka
+Trader|50002178|654321|JOY
+Trader|50002179|654321|Diti Jewellery
+Trader|50002180|654321|Smile2u Retailers
+Trader|50002181|654321|Sakshi Jewels
+Trader|50002182|654321|Love Bright Jewelry
+Trader|50002183|654321|Zotalic
+Trader|50002184|654321|DailyObjects
+Trader|50002185|654321|Coco Bee
+Trader|50002186|654321|Home Originals
+Trader|50002187|654321|Jaipur Crafts
+Trader|50002188|654321|Schick
+Trader|50002189|654321|Fullcutdiamond
+Trader|50002190|654321|RaSav Jewels
+Trader|50002191|654321|MKJewellers
+Trader|50002192|654321|Targus
+Trader|50002193|654321|Eastman
+Trader|50002194|654321|RajasthaniKart
+Trader|50002195|654321|Rakam
+Trader|50002196|654321|Golmaalshop
+Trader|50002197|654321|Harshita
+Trader|50002198|654321|Hoko
+Trader|50002199|654321|Lujo
+Trader|50002200|654321|Justanned
+Trader|50002201|654321|Ajay
+Trader|50002202|654321|Ratnam
+Trader|50002203|654321|Babyliss
+Trader|50002204|654321|Theme Jewels
+Trader|50002205|654321|STM
+Trader|50002206|654321|Caratcents
+Trader|50002207|654321|Ermani Export
+Trader|50002208|654321|Fragrance Concoction
+Trader|50002209|654321|X-Doria
+Trader|50002210|654321|eCraftIndia
+Trader|50002211|654321|Gunjan Diamond
+Trader|50002212|654321|Griptek
+Trader|50002213|654321|DFR
+Trader|50002214|654321|Shivani Art
+Trader|50002215|654321|PG Handicrafts
+Trader|50002216|654321|WhiteGems
+Trader|50002217|654321|Rock
+Trader|50002218|654321|HD Crafts
+Trader|50002219|654321|Fashionvalley
+Trader|50002220|654321|Airplus
+Trader|50002221|654321|Maxel
+Trader|50002222|654321|Story @ Home
+Trader|50002223|654321|Aaditri28
+Trader|50002224|654321|Ahha
+Trader|50002225|654321|HOKO
+Trader|50002226|654321|FIFA
+Trader|50002227|654321|Eventz Gifts
+Trader|50002228|654321|Remington
+Trader|50002229|654321|Bid4desire
+Trader|50002230|654321|Unique Designes
+Trader|50002231|654321|X Doria
+Trader|50002232|654321|Pretty Women
+Trader|50002233|654321|Riddhi Impex
+Trader|50002234|654321|Abhushan
+Trader|50002235|654321|Caratify
+Trader|50002236|654321|Jss Exports
+Trader|50002237|654321|Rasianve
+Trader|50002238|654321|Demira Jewels
+Trader|50002239|654321|JLT
+Trader|50002240|654321|Amazing India
+Trader|50002241|654321|Flazee Home Trends
+Trader|50002242|654321|H-Cart
+Trader|50002243|654321|SnowFox
+Trader|50002244|654321|Jewelshingar
+Trader|50002245|654321|Gift Studios
+Trader|50002246|654321|Agaro
+Trader|50002247|654321|Dicapac
+Trader|50002248|654321|Sheetal Jewellery
+Trader|50002249|654321|Craft Store India
+Trader|50002250|654321|The Fine World
+Trader|50002251|654321|Bajaj
+Trader|50002252|654321|JEWEL FUEL
+Trader|50002253|654321|Cottage
+Trader|50002254|654321|MSC
+Trader|50002255|654321|kamyaart
+Trader|50002256|654321|BagsHub
+Trader|50002257|654321|ALIFS
+Trader|50002258|654321|SSM
+Trader|50002259|654321|LefJord
+Trader|50002260|654321|MSL
+Trader|50002261|654321|Texlon
+Trader|50002262|654321|AYESHA
+Trader|50002263|654321|Sakhi Styles
+Trader|50002264|654321|Shadowfax
+Trader|50002265|654321|Nino Bambino
+Trader|50002266|654321|King George V
+Trader|50002267|654321|Zobello
+Trader|50002268|654321|Canon
+Trader|50002269|654321|AntiqueShop
+Trader|50002270|654321|GALLOWAY
+Trader|50002271|654321|Dremel
+Trader|50002272|654321|Britex
+Trader|50002273|654321|StyloFashionGarments
+Trader|50002274|654321|GINI & JONY
+Trader|50002275|654321|Triveni
+Trader|50002276|654321|ULTRAVISION
+Trader|50002277|654321|brass gift center
+Trader|50002278|654321|VINSON LONDON
+Trader|50002279|654321|ABEEZ
+Trader|50002280|654321|ColorPlus
+Trader|50002281|654321|Aagam
+Trader|50002282|654321|Spictex
+Trader|50002283|654321|Footshez
+Trader|50002284|654321|BAAJ
+Trader|50002285|654321|TARAMA
+Trader|50002286|654321|Artifa
+Trader|50002287|654321|Ethnic Regalia
+Trader|50002288|654321|Kakori
+Trader|50002289|654321|Lavanaya
+Trader|50002290|654321|Udaipur Art Gallery
+Trader|50002291|654321|Aadishwar Creations
+Trader|50002292|654321|1OAK
+Trader|50002293|654321|Cotson
+Trader|50002294|654321|Pavvoin
+Trader|50002295|654321|KRAZY KATZ
+Trader|50002296|654321|diwine jewels
+Trader|50002297|654321|Joyra
+Trader|50002298|654321|Ethiic
+Trader|50002299|654321|SKOOKIE
+Trader|50002300|654321|Pearl Paradise
+Trader|50002301|654321|The V Collection
+Trader|50002302|654321|Stanley
+Trader|50002303|654321|Slim fit
+Trader|50002304|654321|Tsquare
+Trader|50002305|654321|R18Jewels-Fashion&U
+Trader|50002306|654321|Pearlz Ocean
+Trader|50002307|654321|Fida
+Trader|50002308|654321|Rajasthan Crafts
+Trader|50002309|654321|Earth Ro System
+Trader|50002310|654321|GRJ India
+Trader|50002311|654321|Babysid Collection
+Trader|50002312|654321|Tuktuk
+Trader|50002313|654321|Onlinemaniya
+Trader|50002314|654321|Buy Clues
+Trader|50002315|654321|Rajlaxmi
+Trader|50002316|654321|Silver Prince
+Trader|50002317|654321|SP Jewellery
+Trader|50002318|654321|Peora
+Trader|50002319|654321|Scrunchh
+Trader|50002320|654321|Eclat
+Trader|50002321|654321|Fashion Centre
+Trader|50002322|654321|Offspring
+Trader|50002323|654321|Ireeya
+Trader|50002324|654321|Carter'S
+Trader|50002325|654321|My NewBorn
+Trader|50002326|654321|OnlinePearlShop
+Trader|50002327|654321|Scratchgard
+Trader|50002328|654321|Nillkin
+Trader|50002329|654321|Digital Marketing
+Trader|50002330|654321|Gadgetshieldz
+Trader|50002331|654321|Krishna Pearls & Jewellers
+Trader|50002332|654321|Total Care
+Trader|50002333|654321|FliFit
+Trader|50002334|654321|Karpine
+Trader|50002335|654321|Chevron
+Trader|50002336|654321|Ortel
+Trader|50002337|654321|Casotec
+Trader|50002338|654321|Love Baby
+Trader|50002339|654321|Sassoon
+Trader|50002340|654321|Mark Home
+Trader|50002341|654321|Mintha
+Trader|50002342|654321|NEVI
+Trader|50002343|654321|Deben & Hill
+Trader|50002344|654321|Shree Bhawani Art Jewellery
+Trader|50002345|654321|Maayin
+Trader|50002346|654321|Abhooshan
+Trader|50002347|654321|Saga
+Trader|50002348|654321|Pilot
+Trader|50002349|654321|Payalwala
+Trader|50002350|654321|Swiss Charger
+Trader|50002351|654321|Remax
+Trader|50002352|654321|Avantree
+Trader|50002353|654321|Ratnakar
+Trader|50002354|654321|Uniball
+Trader|50002355|654321|Young & Forever
+Trader|50002356|654321|Suvarnadeep
+Trader|50002357|654321|k~style
+Trader|50002358|654321|Xenio
+Trader|50002359|654321|Neutron
+Trader|50002360|654321|Molife
+Trader|50002361|654321|Devina Jewels
+Trader|50002362|654321|Yuuup
+Trader|50002363|654321|PrixCracker
+Trader|50002364|654321|Vmax
+Trader|50002365|654321|Surat Diamonds
+Trader|50002366|654321|Techno TrendZ
+Trader|50002367|654321|Magnifico
+Trader|50002368|654321|Raydenhy
+Trader|50002369|654321|Clara
+Trader|50002370|654321|Sparkling Drop
+Trader|50002371|654321|Forever Carat
+Trader|50002372|654321|Planet
+Trader|50002373|654321|Heena Jewellery
+Trader|50002374|654321|Standard Fit
+Trader|50002375|654321|Treta
+Trader|50002376|654321|JewelFox
+Trader|50002377|654321|BLM
+Trader|50002378|654321|BESTSUIT
+Trader|50002379|654321|Svype
+Trader|50002380|654321|zaidis
+Trader|50002381|654321|Gee Power
+Trader|50002382|654321|Kamakshi Krafts
+Trader|50002383|654321|TOMAFO
+Trader|50002384|654321|RKDEAL
+Trader|50002385|654321|Babytintin
+Trader|50002386|654321|Nautica
+Trader|50002387|654321|Jbn Creation
+Trader|50002388|654321| Top Length:19 
+Trader|50002389|654321|Kishore Dresses
+Trader|50002390|654321|Kabeer
+Trader|50002391|654321|FTCBazar
+Trader|50002392|654321|Jeet
+Trader|50002393|654321|NIPPY
+Trader|50002394|654321|RoyalOak
+Trader|50002395|654321|SMART DENIM
+Trader|50002396|654321|Krishna Carpets
+Trader|50002397|654321|Sea Shell
+Trader|50002398|654321|Shopgalore
+Trader|50002399|654321|Shop24decor
+Trader|50002400|654321|Shiv Shankar Handloom
+Trader|50002401|654321|Trendy Home
+Trader|50002402|654321|KazamaKraft
+Trader|50002403|654321|D-ROCK
+Trader|50002404|654321|ATV
+Trader|50002405|654321|iwill
+Trader|50002406|654321|Shoe Day
+Trader|50002407|654321|SayItLoud
+Trader|50002408|654321|MINDITDADDY
+Trader|50002409|654321|Creative Textiles
+Trader|50002410|654321|LGC
+Trader|50002411|654321|Scrap Wood Birdhouse
+Trader|50002412|654321|Glossy Blue
+Trader|50002413|654321|JJC
+Trader|50002414|654321|Lal Pet Products
+Trader|50002415|654321|Omax
+Trader|50002416|654321|Pet Club51
+Trader|50002417|654321|meSleep
+Trader|50002418|654321|Saviour
+Trader|50002419|654321|Red / Chocolate
+Trader|50002420|654321|Bow! Wow!!
+Trader|50002421|654321|Flyfilms
+Trader|50002422|654321|Jerry's
+Trader|50002423|654321|Petshop7
+Trader|50002424|654321|Pink & Blue
+Trader|50002425|654321|Spe
+Trader|50002426|654321|Tyfy
+Trader|50002427|654321|Wall1ders
+Trader|50002428|654321|Iconnect World
+Trader|50002429|654321|Stuffcool
+Trader|50002430|654321|Crystle
+Trader|50002431|654321|Speed
+Trader|50002432|654321|Orico
+Trader|50002433|654321|Bigkik
+Trader|50002434|654321|Tapawire
+Trader|50002435|654321|Amaze Fashion
+Trader|50002436|654321|QP360
+Trader|50002437|654321|Rolson
+Trader|50002438|654321|Himtek
+Trader|50002439|654321|Orcel
+Trader|50002440|654321|Sitech
+Trader|50002441|654321|KLIQVIK
+Trader|50002442|654321|ShopFloor.XYZ
+Trader|50002443|654321|Techone+
+Trader|50002444|654321|Epresent
+Trader|50002445|654321|Task Logistics
+Trader|50002446|654321|LUV
+Trader|50002447|654321|Mr Plus
+Trader|50002448|654321|ShadowFax
+Trader|50002449|654321|frontech
+Trader|50002450|654321|N K Computers
+Trader|50002451|654321|Link+
+Trader|50002452|654321|Neon
+Trader|50002453|654321|Star Wars
+Trader|50002454|654321|Sangaitap
+Trader|50002455|654321|Anker
+Trader|50002456|654321|De TechInn
+Trader|50002457|654321|DreamShop
+Trader|50002458|654321|Mobirite
+Trader|50002459|654321|Akshaj
+Trader|50002460|654321|Instella
+Trader|50002461|654321|MRK Communication
+Trader|50002462|654321|iConnect World
+Trader|50002463|654321|Dragon
+Trader|50002464|654321|Shadow Fax
+Trader|50002465|654321|Dizionario
+Trader|50002466|654321|Agrima
+Trader|50002467|654321|Tecnia
+Trader|50002468|654321|Kensington
+Trader|50002469|654321|JBG Home Store
+Trader|50002470|654321|AMY
+Trader|50002471|654321|Hoopoe Decor
+Trader|50002472|654321|WallDesign
+Trader|50002473|654321|Shoperite
+Trader|50002474|654321|Home Decor Line
+Trader|50002475|654321|Redwave
+Trader|50002476|654321|Jelly8
+Trader|50002477|654321|k shopping
+Trader|50002478|654321|Sera
+Trader|50002479|654321|IaD
+Trader|50002480|654321|Sharleez
+Trader|50002481|654321|Bella Moda
+Trader|50002482|654321|Fashion Forever
+Trader|50002483|654321|PURAN
+Trader|50002484|654321|Shayona
+Trader|50002485|654321|SViRU
+Trader|50002486|654321|NYX
+Trader|50002487|654321|kawal fashion
+Trader|50002488|654321|Crezy
+Trader|50002489|654321|Morph Maternity
+Trader|50002490|654321|RANGSUTRA
+Trader|50002491|654321|Gulmohar Jaipur
+Trader|50002492|654321|Cotton Fab
+Trader|50002493|654321|Abee
+Trader|50002494|654321|Baalaa
+Trader|50002495|654321|Shwetna.com
+Trader|50002496|654321|AaliyaB
+Trader|50002497|654321|I SQUARE ENTERPRISES
+Trader|50002498|654321|Explore Embedded
+Trader|50002499|654321|CHIKFAB
+Trader|50002500|654321|Alobha
+Trader|50002501|654321|Meera
+Trader|50002502|654321|Wishkey
+Trader|50002503|654321|Bombay Dyeing
+Trader|50002504|654321|chamanhandicrafts
+Trader|50002505|654321|Black Bee
+Trader|50002506|654321|Trilokani
+Trader|50002507|654321|Globalite
+Trader|50002508|654321|Footrendz
+Trader|50002509|654321|Sleek Line
+Trader|50002510|654321|Naisha
+Trader|50002511|654321|Taurus
+Trader|50002512|654321|Abhinl Fashion
+Trader|50002513|654321| Tarkan
+Trader|50002514|654321|Sivanna
+Trader|50002515|654321|ABCD
+Trader|50002516|654321|Lance
+Trader|50002517|654321|Lula
+Trader|50002518|654321|Reinforce
+Trader|50002519|654321|DFH
+Trader|50002520|654321|Masterfit
+Trader|50002521|654321|Trim
+Trader|50002522|654321|Textile India
+Trader|50002523|654321|Jewels Galaxy
+Trader|50002524|654321|Dazzle Collections
+Trader|50002525|654321|Knighthood
+Trader|50002526|654321|The Museum Outlet
+Trader|50002527|654321|925 Silver
+Trader|50002528|654321|Little India
+Trader|50002529|654321|Gliteri
+Trader|50002530|654321|Silver Arts
+Trader|50002531|654321|Rich Cottons
+Trader|50002532|654321|Zikrak Exim
+Trader|50002533|654321|Nakashi
+Trader|50002534|654321|Cinderella Collection By Shining Diva
+Trader|50002535|654321|Mafatlal
+Trader|50002536|654321|Nkp
+Trader|50002537|654321|NKP
+Trader|50002538|654321|V&V ART
+Trader|50002539|654321|ShwetaInternational
+Trader|50002540|654321|Riana
+Trader|50002541|654321|Trident
+Trader|50002542|654321|Casa Copenhagen
+Trader|50002543|654321|Roma Brothers
+Trader|50002544|654321|Kalai
+Trader|50002545|654321|Sujit Bajaj Signature Jewellery
+Trader|50002546|654321|Mandhania
+Trader|50002547|654321|DCA
+Trader|50002548|654321|Chrishan
+Trader|50002549|654321|AT
+Trader|50002550|654321|Amber
+Trader|50002551|654321|Crunchy Fashion
+Trader|50002552|654321|Home India
+Trader|50002553|654321|Future Tech
+Trader|50002554|654321|Gi De Meo
+Trader|50002555|654321|Via Mazzini
+Trader|50002556|654321|Sindoora
+Trader|50002557|654321|Alysa
+Trader|50002558|654321|Glamour Gold
+Trader|50002559|654321|Saashis Closet
+Trader|50002560|654321|IWS
+Trader|50002561|654321|Pristine Towels
+Trader|50002562|654321|Arow
+Trader|50002563|654321|Softspun
+Trader|50002564|654321|Crazytowear
+Trader|50002565|654321|Leshya
+Trader|50002566|654321|Fashion Infinite
+Trader|50002567|654321|Jewels Mountain
+Trader|50002568|654321|MB
+Trader|50002569|654321|Shadi Bazaar
+Trader|50002570|654321|Rehoboth
+Trader|50002571|654321|Shahi Handicraft
+Trader|50002572|654321|MicroCotton
+Trader|50002573|654321|Indoart
+Trader|50002574|654321|Anjan
+Trader|50002575|654321|Advikacreations
+Trader|50002576|654321|Sahej
+Trader|50002577|654321|Leppy
+Trader|50002578|654321|SRSB
+Trader|50002579|654321|Waama Jewels
+Trader|50002580|654321|Saffron Craft
+Trader|50002581|654321|Shagun Trends
+Trader|50002582|654321|Topcolor
+Trader|50002583|654321|lil zizu
+Trader|50002584|654321|Nilkamal
+Trader|50002585|654321|LILZIZU
+Trader|50002586|654321|KDS SURGICAL
+Trader|50002587|654321|Trackdeal
+Trader|50002588|654321|Garlynn
+Trader|50002589|654321|PrimeLine
+Trader|50002590|654321|Glitterss
+Trader|50002591|654321|Noise
+Trader|50002592|654321|Lotus
+Trader|50002593|654321|L'appel Du Vide
+Trader|50002594|654321|Stable Life
+Trader|50002595|654321|Hot Wheels
+Trader|50002596|654321|Zaffre's
+Trader|50002597|654321|Simran Handicrafts
+Trader|50002598|654321|Enerzy
+Trader|50002599|654321|aahnafashion
+Trader|50002600|654321|Starmark
+Trader|50002601|654321|Fun Blox
+Trader|50002602|654321|Raees
+Trader|50002603|654321|Redex
+Trader|50002604|654321|Technix
+Trader|50002605|654321|Okane
+Trader|50002606|654321|MUCHMORE
+Trader|50002607|654321|MUDIT
+Trader|50002608|654321|mae
+Trader|50002609|654321|KIDS VILLAGE
+Trader|50002610|654321|UFO
+Trader|50002611|654321|Pu-Easy Life
+Trader|50002612|654321|FRICTION
+Trader|50002613|654321|Zacharias
+Trader|50002614|654321|SM Nutrition
+Trader|50002615|654321|Krypton
+Trader|50002616|654321|Fimex
+Trader|50002617|654321|ETHICS
+Trader|50002618|654321|FNB
+Trader|50002619|654321|New tastemaker
+Trader|50002620|654321|SUNSHINE
+Trader|50002621|654321|PROBOTT
+Trader|50002622|654321|Techpro
+Trader|50002623|654321|Prisha India Craft
+Trader|50002624|654321|femitaly
+Trader|50002625|654321|Fashion Craft
+Trader|50002626|654321|ChiragBelhi
+Trader|50002627|654321|tryfeet
+Trader|50002628|654321|Kingsway
+Trader|50002629|654321|JK Import
+Trader|50002630|654321|BRANDWAGON
+Trader|50002631|654321|LGRL
+Trader|50002632|654321|Breakbounce
+Trader|50002633|654321|Simrit
+Trader|50002634|654321|ATHENA
+Trader|50002635|654321|FashionPedia
+Trader|50002636|654321|Relaxfeel
+Trader|50002637|654321|Tara Lifestyle
+Trader|50002638|654321|Yes Zone
+Trader|50002639|654321|Nivia
+Trader|50002640|654321|Miss Clyra
+Trader|50002641|654321|i-Sports
+Trader|50002642|654321|SUNWIN
+Trader|50002643|654321|Bio kid
+Trader|50002644|654321|Spick
+Trader|50002645|654321|Amante
+Trader|50002646|654321|Force 10 By Liberty
+Trader|50002647|654321|Nite Flite
+Trader|50002648|654321|Lolaski
+Trader|50002649|654321|ASIAN
+Trader|50002650|654321|Wilkins & Tuscany
+Trader|50002651|654321|Lilpicks Couture
+Trader|50002652|654321|MNTC
+Trader|50002653|654321|Imagination And Beyond
+Trader|50002654|654321|Modishera
+Trader|50002655|654321|Vijayanti
+Trader|50002656|654321|BALAJI EXPORTS
+Trader|50002657|654321|Space
+Trader|50002658|654321|L&T
+Trader|50002659|654321|Siemens
+Trader|50002660|654321|Xpert
+Trader|50002661|654321|Mankoose
+Trader|50002662|654321|Pu-Right
+Trader|50002663|654321|BelleGirl
+Trader|50002664|654321|STYLE CLUES FASHION
+Trader|50002665|654321|V3Squared
+Trader|50002666|654321|Rex
+Trader|50002667|654321|Mega product
+Trader|50002668|654321|A-maze
+Trader|50002669|654321|Home Genie
+Trader|50002670|654321|Bada Saab Juniors
+Trader|50002671|654321|Ajanta
+Trader|50002672|654321|Ocean India
+Trader|50002673|654321|vinay
+Trader|50002674|654321|Day By Day
+Trader|50002675|654321|Cotton On Kids
+Trader|50002676|654321|Antshrike
+Trader|50002677|654321|BRECKEN PAUL
+Trader|50002678|654321|EthnicQueen
+Trader|50002679|654321|Rosaline
+Trader|50002680|654321|Portia
+Trader|50002681|654321|Coucou
+Trader|50002682|654321|AHAANA FASHION
+Trader|50002683|654321|Proteens
+Trader|50002684|654321|Zebie
+Trader|50002685|654321|Urban Monk
+Trader|50002686|654321|Like
+Trader|50002687|654321|Prym
+Trader|50002688|654321|Srajanaa
+Trader|50002689|654321|Clickroo
+Trader|50002690|654321|I cube
+Trader|50002691|654321|Knot in Love
+Trader|50002692|654321|Lux Inferno
+Trader|50002693|654321|Anshul fashion
+Trader|50002694|654321|FURNXT
+Trader|50002695|654321|Zeroed
+Trader|50002696|654321|mobiware
+Trader|50002697|654321|Skovin
+Trader|50002698|654321|Tipsy
+Trader|50002699|654321|LittleThings
+Trader|50002700|654321|Urban WhiZ
+Trader|50002701|654321|Craze
+Trader|50002702|654321|Stellar
+Trader|50002703|654321|ManeKo
+Trader|50002704|654321|Tabu
+Trader|50002705|654321|Rs Electrical
+Trader|50002706|654321|Trak N Tell
+Trader|50002707|654321|Gigabyte
+Trader|50002708|654321|Parth Collection
+Trader|50002709|654321|DIY
+Trader|50002710|654321|Indidecor
+Trader|50002711|654321|Tech Fit
+Trader|50002712|654321|AirFlow
+Trader|50002713|654321|Royal Canin
+Trader|50002714|654321|Spycom
+Trader|50002715|654321|Xtandard
+Trader|50002716|654321|GEMKOLABWELL
+Trader|50002717|654321|GOGLE SOURCING
+Trader|50002718|654321|wallskart
+Trader|50002719|654321|signature
+Trader|50002720|654321|LIME
+Trader|50002721|654321|SHIMZA
+Trader|50002722|654321|DIVAS CHOICE
+Trader|50002723|654321|Queen Steps
+Trader|50002724|654321|TruSo
+Trader|50002725|654321|Mobiroy
+Trader|50002726|654321|skhoza
+Trader|50002727|654321|Platinum
+Trader|50002728|654321|Demokrazy
+Trader|50002729|654321|Laviva
+Trader|50002730|654321|Nimfill
+Trader|50002731|654321|Darvesh
+Trader|50002732|654321|Nitra
+Trader|50002733|654321|SAJAY FASHIONS
+Trader|50002734|654321|Weavers Villa
+Trader|50002735|654321|MOOI-ZAK
+Trader|50002736|654321|BOTH11
+Trader|50002737|654321|SS
+Trader|50002738|654321|Tucano
+Trader|50002739|654321|YNA
+Trader|50002740|654321|Gemei
+Trader|50002741|654321|Anjalika
+Trader|50002742|654321|Digilight
+Trader|50002743|654321|Agrasen International
+Trader|50002744|654321|Sophies
+Trader|50002745|654321|Pinc Ginger
+Trader|50002746|654321|Zesture
+Trader|50002747|654321|Ratnapriya Art
+Trader|50002748|654321|Valtellina
+Trader|50002749|654321|The Craftz
+Trader|50002750|654321|Asist Health Care
+Trader|50002751|654321|Nagar Handloom
+Trader|50002752|654321|Metro
+Trader|50002753|654321|Spangle
+Trader|50002754|654321|Unnati
+Trader|50002755|654321|Usmas
+Trader|50002756|654321|Jaipur Textile Hub
+Trader|50002757|654321|Megaway
+Trader|50002758|654321|COLORS FOR LIVING
+Trader|50002759|654321|Wipro
+Trader|50002760|654321|Paisa worth
+Trader|50002761|654321|My Party Suppliers
+Trader|50002762|654321|Case Logic
+Trader|50002763|654321|Paradise
+Trader|50002764|654321|TOP Q
+Trader|50002765|654321|Logitech
+Trader|50002766|654321|Home Delight
+Trader|50002767|654321|Majestic
+Trader|50002768|654321|The Art Box
+Trader|50002769|654321|Urban Style
+Trader|50002770|654321|Dancing Girl
+Trader|50002771|654321|Al Fakher
+Trader|50002772|654321|Art Antiqua
+Trader|50002773|654321|England
+Trader|50002774|654321|iplay
+Trader|50002775|654321|A To Z Traders
+Trader|50002776|654321|Raymond Home
+Trader|50002777|654321|The Art Treasure
+Trader|50002778|654321|Jaipar Heritage
+Trader|50002779|654321|Craft And Curtain
+Trader|50002780|654321|Gathbandhan
+Trader|50002781|654321|Sun Band
+Trader|50002782|654321|carrol
+Trader|50002783|654321|Veensh
+Trader|50002784|654321|Indian Fashion
+Trader|50002785|654321|Chandra Creations
+Trader|50002786|654321|Optokart
+Trader|50002787|654321|Sugandh Vatika
+Trader|50002788|654321|DANR
+Trader|50002789|654321|Ceela
+Trader|50002790|654321|SIHRA
+Trader|50002791|654321|LRIPL
+Trader|50002792|654321|Arial Morris
+Trader|50002793|654321|Cotab
+Trader|50002794|654321|Katwa Clasic
+Trader|50002795|654321|Shopo
+Trader|50002796|654321|Dreamszone
+Trader|50002797|654321|Anupamaa
+Trader|50002798|654321|RREnterprizes
+Trader|50002799|654321|Urbanvillage
+Trader|50002800|654321|Breathe
+Trader|50002801|654321|SM
+Trader|50002802|654321|Sun Sports
+Trader|50002803|654321|Cosco
+Trader|50002804|654321|Yonex
+Trader|50002805|654321|APG
+Trader|50002806|654321|Stanford
+Trader|50002807|654321|Frames
+Trader|50002808|654321|Autocop
+Trader|50002809|654321|Platignum
+Trader|50002810|654321|KAN
+Trader|50002811|654321|Anand's
+Trader|50002812|654321|Artengo
+Trader|50002813|654321|Blue Me
+Trader|50002814|654321|Tf Pro
+Trader|50002815|654321|RYAN
+Trader|50002816|654321|SANMARIO
+Trader|50002817|654321|Tappu Ki Dukaan
+Trader|50002818|654321|Sigmatech
+Trader|50002819|654321|JVC
+Trader|50002820|654321|Bhalaria
+Trader|50002821|654321|Taino
+Trader|50002822|654321|Joynix
+Trader|50002823|654321|Abhomedecor
+Trader|50002824|654321|Zixtro
+Trader|50002825|654321|BrandMeUp
+Trader|50002826|654321|COTTON ON KIDS
+Trader|50002827|654321|RajeshFashion
+Trader|50002828|654321|Celebration
+Trader|50002829|654321|Ira Soleil
+Trader|50002830|654321|Nutcase
+Trader|50002831|654321|PRINT SHAPES
+Trader|50002832|654321|69th Avenue
+Trader|50002833|654321|Little's Wear
+Trader|50002834|654321|Aaina Home Decor
+Trader|50002835|654321|stylishvilla
+Trader|50002836|654321|Khushi Fashions
+Trader|50002837|654321|LIENZ
+Trader|50002838|654321|M S Rugs
+Trader|50002839|654321|Loomkart
+Trader|50002840|654321|Pezzava
+Trader|50002841|654321|GIMS
+Trader|50002842|654321|UCB
+Trader|50002843|654321|W
+Trader|50002844|654321|Black Butterfly
+Trader|50002845|654321|feminine
+Trader|50002846|654321|DH-Discovery
+Trader|50002847|654321|ZEVA
+Trader|50002848|654321|T THREE
+Trader|50002849|654321|FURNISHINGLAND
+Trader|50002850|654321|MRB
+Trader|50002851|654321|Scholar
+Trader|50002852|654321|loomkart
+Trader|50002853|654321|Jheel
+Trader|50002854|654321|Red Rose
+Trader|50002855|654321|Jouer
+Trader|50002856|654321|Balujas
+Trader|50002857|654321|Giftwell
+Trader|50002858|654321|Toyto
+Trader|50002859|654321|JTC Platinum
+Trader|50002860|654321|GO LUCKNOW
+Trader|50002861|654321|AUROSHIKHA
+Trader|50002862|654321|Checkered Chef
+Trader|50002863|654321|Mahadev Handicrafts
+Trader|50002864|654321|SYON
+Trader|50002865|654321|Sparklings
+Trader|50002866|654321|Gudi
+Trader|50002867|654321|OMS ZONE
+Trader|50002868|654321|Swastik
+Trader|50002869|654321|Change360°
+Trader|50002870|654321|Champ
+Trader|50002871|654321|NEXASHOP
+Trader|50002872|654321|Shiyara
+Trader|50002873|654321|Z-Support
+Trader|50002874|654321|U. R. GOD
+Trader|50002875|654321|HashTag
+Trader|50002876|654321|Arghyam
+Trader|50002877|654321|Alicia Souza
+Trader|50002878|654321|CALCULUS
+Trader|50002879|654321|UNCLE BENIT
+Trader|50002880|654321|Rejewel
+Trader|50002881|654321|veronica
+Trader|50002882|654321|ROYLE KATOCH
+Trader|50002883|654321|Jaycoknit
+Trader|50002884|654321|GENIAL
+Trader|50002885|654321|overstockedkitchen
+Trader|50002886|654321|Jacadi paris
+Trader|50002887|654321|Springwel
+Trader|50002888|654321|OSS-FUEL
+Trader|50002889|654321|SMS
+Trader|50002890|654321|RJVON
+Trader|50002891|654321|Asmi
+Trader|50002892|654321|SRPC
+Trader|50002893|654321|eSms
+Trader|50002894|654321|Leading lady
+Trader|50002895|654321|Yo Baby
+Trader|50002896|654321|LOTTIE LONDON
+Trader|50002897|654321|Cratly
+Trader|50002898|654321|Celix
+Trader|50002899|654321|Shree Creation
+Trader|50002900|654321|Jaipurkurti
+Trader|50002901|654321|KRiSS
+Trader|50002902|654321|Aarti Collections
+Trader|50002903|654321|Novicz
+Trader|50002904|654321|SV Creations
+Trader|50002905|654321|Viari
+Trader|50002906|654321|Gift Studio
+Trader|50002907|654321|Joola
+Trader|50002908|654321|Adore London
+Trader|50002909|654321|Meow Wings
+Trader|50002910|654321|Priority
+Trader|50002911|654321|Maharaja
+Trader|50002912|654321|Anjali
+Trader|50002913|654321|Deep
+Trader|50002914|654321|Butterflies
+Trader|50002915|654321|Yumlookup
+Trader|50002916|654321|DLOOP
+Trader|50002917|654321|Utsukushii
+Trader|50002918|654321|Probott
+Trader|50002919|654321|THERISE
+Trader|50002920|654321|Rosepetal
+Trader|50002921|654321|V-AARCI
+Trader|50002922|654321|SAYITLOUD
+Trader|50002923|654321|Ethnic Handicrafts
+Trader|50002924|654321|Nut Khut
+Trader|50002925|654321|NavyaRiti
+Trader|50002926|654321|Novel
+Trader|50002927|654321|Rishan
+Trader|50002928|654321|Osmonde
+Trader|50002929|654321|Vinenzia
+Trader|50002930|654321|fabwoods
+Trader|50002931|654321|Satrani
+Trader|50002932|654321|Terracotta
+Trader|50002933|654321|Aakrati
+Trader|50002934|654321|BijouVertex
+Trader|50002935|654321|Agnihotra Creations
+Trader|50002936|654321|Art Godaam
+Trader|50002937|654321|Navisha
+Trader|50002938|654321|Fourwalls
+Trader|50002939|654321|Buy Merchbay Wild Accessory Box 
+Trader|50002940|654321|Swayambhu
+Trader|50002941|654321|Utsokt
+Trader|50002942|654321|Yijun
+Trader|50002943|654321|Vedic Deals
+Trader|50002944|654321|Merchbay Colorful Doodles Accessory Box 
+Trader|50002945|654321|Chrome
+Trader|50002946|654321|MPCI
+Trader|50002947|654321|Kaatru
+Trader|50002948|654321|Aarnaa
+Trader|50002949|654321|Iron Crafts
+Trader|50002950|654321|Jewlot
+Trader|50002951|654321|Riddhi Siddhi
+Trader|50002952|654321|JJ Jonex
+Trader|50002953|654321|Royal
+Trader|50002954|654321|Liz Lange
+Trader|50002955|654321|Trends On Wall
+Trader|50002956|654321|Arshia Fashions
+Trader|50002957|654321|SRK GROUPS
+Trader|50002958|654321|CoffeeBean
+Trader|50002959|654321|Elephant Brand
+Trader|50002960|654321|Hiakan
+Trader|50002961|654321|PDI
+Trader|50002962|654321|Goodyear
+Trader|50002963|654321|Artnconcept
+Trader|50002964|654321|DECOREX
+Trader|50002965|654321|Shoprillo
+Trader|50002966|654321|Ted Smith
+Trader|50002967|654321|Thoughtroad
+Trader|50002968|654321|Body Care
+Trader|50002969|654321|Cenizas
+Trader|50002970|654321|Lavish Blink
+Trader|50002971|654321|G&G
+Trader|50002972|654321|Red Peach
+Trader|50002973|654321|AM Creation
+Trader|50002974|654321|SHOP FRENZY
+Trader|50002975|654321|Manirathnum
+Trader|50002976|654321|Kelvinator
+Trader|50002977|654321|BnC
+Trader|50002978|654321|Tupperware
+Trader|50002979|654321|Sitare
+Trader|50002980|654321|Eplant
+Trader|50002981|654321|Finnexe
+Trader|50002982|654321|TimberTaste
+Trader|50002983|654321|SportsHouse
+Trader|50002984|654321|krishna art
+Trader|50002985|654321|NOVA
+Trader|50002986|654321|Avalon Organics
+Trader|50002987|654321|Balaji Art
+Trader|50002988|654321|Khaan Saab Editions
+Trader|50002989|654321|CTW
+Trader|50002990|654321|Astrodidi
+Trader|50002991|654321|nogaiya
+Trader|50002992|654321|Via Flowers Llp
+Trader|50002993|654321|Hi Art
+Trader|50002994|654321|Data cable
+Trader|50002995|654321|Koncepts
+Trader|50002996|654321|ELITE STATUES
+Trader|50002997|654321|Mod-Inn
+Trader|50002998|654321|StyleStuffs
+Trader|50002999|654321|Happiness Is
+Trader|50003000|654321|MAIRAAH
+Trader|50003001|654321|Aston Paris
+Trader|50003002|654321|boom
+Trader|50003003|654321|Balaji
+Trader|50003004|654321|Planet Waves
+Trader|50003005|654321|Lady Stark
+Trader|50003006|654321|PIGEON
+Trader|50003007|654321|Scot Wilson
+Trader|50003008|654321|MomToBe
+Trader|50003009|654321|Princeware
+Trader|50003010|654321|Gautam Buddha
+Trader|50003011|654321|KASCN
+Trader|50003012|654321|Khwaab Enterprise
+Trader|50003013|654321|THREE WICKETS
+Trader|50003014|654321|tiwaritraders
+Trader|50003015|654321|Lock&Lock
+Trader|50003016|654321|Lowe Alpine
+Trader|50003017|654321|ORKA
+Trader|50003018|654321|Manthan
+Trader|50003019|654321|Krocs
+Trader|50003020|654321|APOLLO+
+Trader|50003021|654321|TEMPO
+Trader|50003022|654321|Ezee
+Trader|50003023|654321|ZALULA
+Trader|50003024|654321|Theskinmantra
+Trader|50003025|654321|ELEGANZE DECOR
+Trader|50003026|654321|HuppmeGift
+Trader|50003027|654321|EASIES
+Trader|50003028|654321|Blackberrys
+Trader|50003029|654321|BACHELORS N BEYOND
+Trader|50003030|654321|blue stag
+Trader|50003031|654321|Van Don
+Trader|50003032|654321|Sting
+Trader|50003033|654321|TOC
+Trader|50003034|654321|Menjestic
+Trader|50003035|654321|Bemoree
+Trader|50003036|654321|Shubham Exports
+Trader|50003037|654321|Revlon
+Trader|50003038|654321|Doraemon Gift Family Ceramic Coffee Mug
+Trader|50003039|654321|Milani
+Trader|50003040|654321|Ibz
+Trader|50003041|654321|e.l.f. Cosmetics
+Trader|50003042|654321|JHON DIEGO
+Trader|50003043|654321|FreeHand
+Trader|50003044|654321|barbarik
+Trader|50003045|654321|NIROSHA
+Trader|50003046|654321|Aster Luxury
+Trader|50003047|654321|BEARDO
+Trader|50003048|654321|Royal Kurta
+Trader|50003049|654321|SkyWheels
+Trader|50003050|654321|Chumbak
+Trader|50003051|654321|Anuze Fashions
+Trader|50003052|654321|BM WOOD FURNITURE
+Trader|50003053|654321|the jewelbox
+Trader|50003054|654321|Phototech
+Trader|50003055|654321|Orange and Orchid
+Trader|50003056|654321|SKIDLERS
+Trader|50003057|654321|hi-tech
+Trader|50003058|654321|Velvetcase
+Trader|50003059|654321|ASHAWAY
+Trader|50003060|654321|KAPFAB
+Trader|50003061|654321|jay fashion
+Trader|50003062|654321|Fashiondeal
+Trader|50003063|654321|Addyvero
+Trader|50003064|654321|Wall Decal
+Trader|50003065|654321|JBI
+Trader|50003066|654321|Head Kik
+Trader|50003067|654321|Gojeeva
+Trader|50003068|654321|CONVENIENCE
+Trader|50003069|654321|ESBEDA
+Trader|50003070|654321|Czds India
+Trader|50003071|654321|kush creation
+Trader|50003072|654321|LAWMAN PG3
+Trader|50003073|654321|Dongli
+Trader|50003074|654321|NEWLOOK
+Trader|50003075|654321|Ech oly
+Trader|50003076|654321|Raju purse collection
+Trader|50003077|654321|Jovan
+Trader|50003078|654321|Awesome Fab
+Trader|50003079|654321|Sherie
+Trader|50003080|654321|Gopalvilla
+Trader|50003081|654321|Comfort Couch
+Trader|50003082|654321|Art N Hub
+Trader|50003083|654321|Man2 OSH Kimaka
+Trader|50003084|654321|texclusive
+Trader|50003085|654321|Wetex Premium
+Trader|50003086|654321|Wonder World
+Trader|50003087|654321|Layer'r
+Trader|50003088|654321|Capturing Happiness
+Trader|50003089|654321|Viyasha
+Trader|50003090|654321|Sizzlacious
+Trader|50003091|654321|GOLDEN GIRL
+Trader|50003092|654321|Prajo
+Trader|50003093|654321|Maayas
+Trader|50003094|654321|BUTTERFILES
+Trader|50003095|654321|Amatra
+Trader|50003096|654321|Da intimo
+Trader|50003097|654321|Simran
+Trader|50003098|654321|Styleworld
+Trader|50003099|654321|Toons
+Trader|50003100|654321|Histeria
+Trader|50003101|654321|Fabcart
+Trader|50003102|654321|Exxotic Jewelz
+Trader|50003103|654321|Allora
+Trader|50003104|654321|Inddus
+Trader|50003105|654321|Shine Tech
+Trader|50003106|654321|Lajo
+Trader|50003107|654321|Safari Ltd.
+Trader|50003108|654321|Camt
+Trader|50003109|654321|Tom and Jerry
+Trader|50003110|654321|Good Way
+Trader|50003111|654321|Aroma Comfort
+Trader|50003112|654321|KA
+Trader|50003113|654321|Lip Rageous
+Trader|50003114|654321|American Club
+Trader|50003115|654321|Dloop
+Trader|50003116|654321|RONAKSILK
+Trader|50003117|654321|DC Universe
+Trader|50003118|654321|Polo House USA
+Trader|50003119|654321|Shreeka
+Trader|50003120|654321|Surgical e Sstudio
+Trader|50003121|654321|Eaglemoss Publications
+Trader|50003122|654321|X-Plus
+Trader|50003123|654321|Goblin
+Trader|50003124|654321|Wild Republic
+Trader|50003125|654321|Auto Power Gold
+Trader|50003126|654321|Good Win
+Trader|50003127|654321|Nendoroid
+Trader|50003128|654321|Craftatoz
+Trader|50003129|654321|Khanna Jupiter
+Trader|50003130|654321|Oswal
+Trader|50003131|654321|Sentinel
+Trader|50003132|654321|Calico Critters
+Trader|50003133|654321|Solo
+Trader|50003134|654321|SARK
+Trader|50003135|654321|Tokidoki
+Trader|50003136|654321|Discovery Toys
+Trader|50003137|654321|Lady Diana
+Trader|50003138|654321|Lovely
+Trader|50003139|654321|Cynthia's Fashion
+Trader|50003140|654321|Blizzard Entertainment
+Trader|50003141|654321|MUA MAKEUP ACADEMY
+Trader|50003142|654321|SafeAnBTouch
+Trader|50003143|654321|The Loyal Subjects
+Trader|50003144|654321|Whirlpool
+Trader|50003145|654321|Hunter
+Trader|50003146|654321|Atithee
+Trader|50003147|654321|Moulin Roty
+Trader|50003148|654321|Doctor Who
+Trader|50003149|654321|OMRD
+Trader|50003150|654321|Johhny Cash
+Trader|50003151|654321|Hddecor
+Trader|50003152|654321|Kerastase
+Trader|50003153|654321|Predator
+Trader|50003154|654321|sark
+Trader|50003155|654321|happy deals
+Trader|50003156|654321|Chap Ice
+Trader|50003157|654321|Ninecolours
+Trader|50003158|654321|Hasbro
+Trader|50003159|654321|Vinex
+Trader|50003160|654321|Great Eastern
+Trader|50003161|654321|SAJNA CELEBRATIONS
+Trader|50003162|654321|Prescott
+Trader|50003163|654321|DEEPAK N DIVYA
+Trader|50003164|654321|Beyblade
+Trader|50003165|654321|Navigator
+Trader|50003166|654321|Dr.Cool
+Trader|50003167|654321|Plus Value
+Trader|50003168|654321|raju purse collection
+Trader|50003169|654321|ALL DAY 365
+Trader|50003170|654321|Raju Purse Collection
+Trader|50003171|654321|Indiatrendzs
+Trader|50003172|654321|Shopmore
+Trader|50003173|654321|GoWell
+Trader|50003174|654321|Leo n Babes
+Trader|50003175|654321|Antistreet
+Trader|50003176|654321|Heeran Art
+Trader|50003177|654321|Vio
+Trader|50003178|654321|Pazel
+Trader|50003179|654321|Femme Couture
+Trader|50003180|654321|The Body Care
+Trader|50003181|654321|KAROZ
+Trader|50003182|654321|Luca Fashion
+Trader|50003183|654321|Shoetopia
+Trader|50003184|654321|Beanz
+Trader|50003185|654321|Corcepts
+Trader|50003186|654321|Areon
+Trader|50003187|654321|Sinina
+Trader|50003188|654321|Aarushi Fashion
+Trader|50003189|654321|Ambika Lahenga
+Trader|50003190|654321|Elite Collection
+Trader|50003191|654321|999store
+Trader|50003192|654321|Uberlyfe
+Trader|50003193|654321|Fun To See
